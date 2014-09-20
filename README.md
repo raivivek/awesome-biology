@@ -13,4 +13,7 @@ All the resources need not be freely available for download.
 Table of Contents
 =================
 
-_(Work in Progress)_
+Genetics
+--------
+
+[Genes & Genomes by Maxine Singer and Paul Berg](http://books.google.co.in/books/about/Genes_Genomes.html?id=h59BWkO5c1oC)
