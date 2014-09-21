@@ -12,6 +12,9 @@ of any particular field or subject area.
 
 All the resources need not be freely available for download.
 
+For Q&A type of resources that share excellent insight see
+[here](https://github.com/vivekiitkgp/awesome-biology/blob/master/quora.md).
+
 Table of Contents
 =================
 
