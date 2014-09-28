@@ -1,8 +1,16 @@
 Questions
 =========
 
+* [How can the skeleton of a dinosaur remain intact after millions of years?](https://www.quora.com/How-can-the-skeleton-of-a-dinosaur-remain-intact-after-millions-of-years)
+* [I need to give someone an incurable disease that they would slowly deteriorate from without proper medication. What would be a good choice?](https://www.quora.com/I-need-to-give-someone-an-incurable-disease-that-they-would-slowly-deteriorate-from-without-proper-medication-What-would-be-a-good-choice)
+* [Has any ancient DNA ever been recovered?](https://www.quora.com/Has-any-ancient-DNA-ever-been-recovered)
+* [What are some interesting examples of different strains/mutations/variations of the same disease (e.g., cancer, viral infections) that are related to ethnicity or race?](https://www.quora.com/What-are-some-interesting-examples-of-different-strains-mutations-variations-of-the-same-disease-e-g-cancer-viral-infections-that-are-related-to-ethnicity-or-race)
+* [What makes influenza airborne and Ebola not airborne?](https://www.quora.com/What-makes-influenza-airborne-and-Ebola-not-airborne)
+* [Do researchers/scientists find reading scientific papers exciting?](https://www.quora.com/Do-researchers-scientists-find-reading-scientific-papers-exciting)
 * [How do babies sleep in the womb?](https://www.quora.com/How-do-babies-sleep-in-the-womb)
 * [Why do humans not walk on four legs?](https://www.quora.com/Why-do-humans-not-walk-on-four-legs)
+* [How frequently are 'new' deadly viruses discovered?](https://www.quora.com/How-frequently-are-new-deadly-viruses-discovered)
+* [Are there species of fungi that have more than two sexes?](https://www.quora.com/Are-there-species-of-fungi-that-have-more-than-two-sexes)
 * [Why do we have DNAse on our skin?](https://www.quora.com/Why-do-we-have-DNase-on-our-skin)
 * [Why are trans-unsaturated fatty acids worse for us than, say, saturated fatty acids?](https://www.quora.com/Why-are-trans-unsaturated-fatty-acids-worse-for-us-than-say-saturated-fatty-acids)
 * [What are tmRNAs?](https://www.quora.com/What-are-tmRNAs)
@@ -12,3 +20,7 @@ Questions
 * [What is the physical mechanism by which proteins travel through the Golgi apparatus?](https://www.quora.com/What-is-the-physical-mechanism-by-which-proteins-travel-through-the-Golgi-apparatus)
 * [What makes prion fibrils vulnerable to breaking, and how do they ultimately break?](https://www.quora.com/What-makes-prion-fibrils-vulnerable-to-breaking-and-how-do-they-ultimately-break)
 * [How does higher GC content induce secondary structure in nucleic acids?](https://www.quora.com/How-does-higher-GC-content-induce-secondary-structure-in-nucleic-acids)
+* [Does having a beta sheet make a protein more prone to forming aggregates?](https://www.quora.com/Does-having-a-beta-sheet-make-a-protein-more-prone-to-forming-aggregates)
+* [How unique do the amino acids responsible for a molecule's binding site have to be?](https://www.quora.com/How-unique-do-the-amino-acids-responsible-for-a-molecules-binding-site-have-to-be)
+* [How does hydration level affect the conformation that DNA adopts?](https://www.quora.com/Biophysics/How-does-hydration-level-affect-the-conformation-that-DNA-adopts)
+* [How closely should an experiment copy the original in order to be a replication?](https://www.quora.com/How-closely-should-an-experiment-copy-the-original-in-order-to-be-a-replication)
