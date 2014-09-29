@@ -42,3 +42,8 @@ Genetics
 > Students will like this text. The writing is clear and straight-forward so
 > that facts are easily assimilated and arguments/discursive points easily
 > followed. The part on recombinant DNA is particularly good. - C A Smith (*Biochemical Education, Volume 19, Issue 4*)
+
+Bioinformatics
+--------------
+
+* [Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713)
