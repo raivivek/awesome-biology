@@ -26,3 +26,12 @@ Questions
 * [How closely should an experiment copy the original in order to be a replication?](https://www.quora.com/How-closely-should-an-experiment-copy-the-original-in-order-to-be-a-replication)
 * [From a biochemical perspective, what happens when your hair gets greasy?](https://www.quora.com/From-a-biochemical-perspective-what-happens-when-your-hair-gets-greasy)
 * [Can lysozyme degrade the beta 1-4 glycosidic linkages in cellulose as it does in case for peptidoglycan?](https://www.quora.com/Can-lysozyme-degrade-the-beta-1-4-glycosidic-linkages-in-cellulose-as-it-does-in-case-for-peptidoglycan)
+* [How can neurons be so slow and yet we are so smart?](https://www.quora.com/How-can-neurons-be-so-slow-and-yet-we-are-so-smart)
+
+## Bioinformatics
+
+* [What problems in biology involve the collection and analysis of multi-terabyte data sets?](https://www.quora.com/What-problems-in-biology-involve-the-collection-and-analysis-of-multi-terabyte-data-sets)
+* [What should a data scientist know about the gene expression data analysis?](https://www.quora.com/Bioinformatics/What-should-a-data-scientist-know-about-the-gene-expression-data-analysis)
+* [Is there mathematically intense work in cellular and molecular biology?](https://www.quora.com/Cell-Biology-2/Is-there-mathematically-intense-work-in-cellular-and-molecular-biology)
+* [How does a DNA microarray work?](https://www.quora.com/How-does-a-DNA-microarray-work)
+* [What is an "at home" genetic data analysis project?](https://www.quora.com/Bioinformatics/What-is-an-at-home-genetic-data-analysis-project)
