@@ -24,3 +24,5 @@ Questions
 * [How unique do the amino acids responsible for a molecule's binding site have to be?](https://www.quora.com/How-unique-do-the-amino-acids-responsible-for-a-molecules-binding-site-have-to-be)
 * [How does hydration level affect the conformation that DNA adopts?](https://www.quora.com/Biophysics/How-does-hydration-level-affect-the-conformation-that-DNA-adopts)
 * [How closely should an experiment copy the original in order to be a replication?](https://www.quora.com/How-closely-should-an-experiment-copy-the-original-in-order-to-be-a-replication)
+* [From a biochemical perspective, what happens when your hair gets greasy?](https://www.quora.com/From-a-biochemical-perspective-what-happens-when-your-hair-gets-greasy)
+* [Can lysozyme degrade the beta 1-4 glycosidic linkages in cellulose as it does in case for peptidoglycan?](https://www.quora.com/Can-lysozyme-degrade-the-beta-1-4-glycosidic-linkages-in-cellulose-as-it-does-in-case-for-peptidoglycan)
