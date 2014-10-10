@@ -7,6 +7,7 @@ Questions
 * [What are some interesting examples of different strains/mutations/variations of the same disease (e.g., cancer, viral infections) that are related to ethnicity or race?](https://www.quora.com/What-are-some-interesting-examples-of-different-strains-mutations-variations-of-the-same-disease-e-g-cancer-viral-infections-that-are-related-to-ethnicity-or-race)
 * [What makes influenza airborne and Ebola not airborne?](https://www.quora.com/What-makes-influenza-airborne-and-Ebola-not-airborne)
 * [Do researchers/scientists find reading scientific papers exciting?](https://www.quora.com/Do-researchers-scientists-find-reading-scientific-papers-exciting)
+* [What is a layman's explanation of the 2014 Nobel Prize in Chemistry?](https://www.quora.com/What-is-a-laymans-explanation-of-the-2014-Nobel-Prize-in-Chemistry)
 * [How do babies sleep in the womb?](https://www.quora.com/How-do-babies-sleep-in-the-womb)
 * [Why do humans not walk on four legs?](https://www.quora.com/Why-do-humans-not-walk-on-four-legs)
 * [How frequently are 'new' deadly viruses discovered?](https://www.quora.com/How-frequently-are-new-deadly-viruses-discovered)

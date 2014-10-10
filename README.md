@@ -28,7 +28,6 @@ Introductory
 ------------
 
 * [Campbell Biology](http://www.amazon.com/Campbell-Biology-Edition-Jane-Reece/dp/0321558235/ref=zg_bs_226688_5)
-
 Molecular Biology
 -----------------
 
@@ -46,4 +45,5 @@ Genetics
 Bioinformatics
 --------------
 
+* [Curated list of papers for Computational Genomics](https://github.com/jtleek/genomicspapers)
 * [Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713)
