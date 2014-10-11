@@ -1,4 +1,4 @@
-Questions
+uestions
 =========
 
 * [How can the skeleton of a dinosaur remain intact after millions of years?](https://www.quora.com/How-can-the-skeleton-of-a-dinosaur-remain-intact-after-millions-of-years)
@@ -13,9 +13,13 @@ Questions
 * [How frequently are 'new' deadly viruses discovered?](https://www.quora.com/How-frequently-are-new-deadly-viruses-discovered)
 * [Are there species of fungi that have more than two sexes?](https://www.quora.com/Are-there-species-of-fungi-that-have-more-than-two-sexes)
 * [Why do we have DNAse on our skin?](https://www.quora.com/Why-do-we-have-DNase-on-our-skin)
+* [Why did humans lose the ability to make Vitamin C?](https://www.quora.com/Why-did-humans-lose-the-ability-to-make-Vitamin-C)
 * [Why are trans-unsaturated fatty acids worse for us than, say, saturated fatty acids?](https://www.quora.com/Why-are-trans-unsaturated-fatty-acids-worse-for-us-than-say-saturated-fatty-acids)
 * [What are tmRNAs?](https://www.quora.com/What-are-tmRNAs)
 * [How does cholesterol affect the structure of lipid bilayers?](https://www.quora.com/How-does-cholesterol-affect-the-structure-of-lipid-bilayers) 
+* [Is Western blot a truly reliable lab method? Are there any better alternatives?](https://www.quora.com/Is-Western-blot-a-truly-reliable-lab-method-Are-there-any-better-alternatives)
+* [What is the most contagious disease on earth?](https://www.quora.com/What-is-the-most-contagious-disease-on-earth)
+* [Why does evolution have diverse paces and tempos?](https://www.quora.com/Why-does-evolution-have-diverse-paces-and-tempos)
 * [Do chaperone proteins assist in the folding of proteins only or do they assist in assembly of other macromolecules too?](https://www.quora.com/Do-chaperone-proteins-assist-in-the-folding-of-proteins-only-or-do-they-assist-in-assembly-of-other-macromolecules-too)
 * [There are a lot of different amino acids in different types of organisms. But why are only 20 well-known acids proteinogenic?](https://www.quora.com/There-are-a-lot-of-different-amino-acids-in-different-types-of-organisms-But-why-are-only-20-well-known-acids-proteinogenic)
 * [What is the physical mechanism by which proteins travel through the Golgi apparatus?](https://www.quora.com/What-is-the-physical-mechanism-by-which-proteins-travel-through-the-Golgi-apparatus)
