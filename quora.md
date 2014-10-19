@@ -32,6 +32,7 @@ uestions
 * [From a biochemical perspective, what happens when your hair gets greasy?](https://www.quora.com/From-a-biochemical-perspective-what-happens-when-your-hair-gets-greasy)
 * [Can lysozyme degrade the beta 1-4 glycosidic linkages in cellulose as it does in case for peptidoglycan?](https://www.quora.com/Can-lysozyme-degrade-the-beta-1-4-glycosidic-linkages-in-cellulose-as-it-does-in-case-for-peptidoglycan)
 * [How can neurons be so slow and yet we are so smart?](https://www.quora.com/How-can-neurons-be-so-slow-and-yet-we-are-so-smart)
+* [Why don't viruses evolve to protect rather than harm their hosts?](https://www.quora.com/Virology/Why-dont-viruses-evolve-to-protect-rather-than-harm-their-hosts)
 
 ## Bioinformatics
 
