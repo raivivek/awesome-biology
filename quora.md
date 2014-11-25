@@ -34,7 +34,18 @@ uestions
 * [How can neurons be so slow and yet we are so smart?](https://www.quora.com/How-can-neurons-be-so-slow-and-yet-we-are-so-smart)
 * [Why don't viruses evolve to protect rather than harm their hosts?](https://www.quora.com/Virology/Why-dont-viruses-evolve-to-protect-rather-than-harm-their-hosts)
 * [I want to sequence a novel animal genome. How can I verify whether or not it has already been sequenced and made public/open source?](https://www.quora.com/I-want-to-sequence-a-novel-animal-genome-How-can-I-verify-whether-or-not-it-has-already-been-sequenced-and-made-public-open-source)
-* [https://www.quora.com/What-are-some-possible-ways-to-cure-Ebola-in-the-future](https://www.quora.com/What-are-some-possible-ways-to-cure-Ebola-in-the-future)
+* [What-are-some-possible-ways-to-cure-Ebola-in-the-future](https://www.quora.com/What-are-some-possible-ways-to-cure-Ebola-in-the-future)
+* [How does quorum sensing work?](http://qr.ae/mWVXA)
+* [Why is blocking mitochondrial fission an effective treatment for Parkinson's?](https://www.quora.com/Why-is-blocking-mitochondrial-fission-an-effective-treatment-for-Parkinsons)
+* [How are Reactive Oxygen Species produced physiologically in cells?](https://www.quora.com/How-are-Reactive-Oxygen-Species-produced-physiologically-in-cells)
+* [What is the meaning of the 28S/18s ribosomal ratio?](https://www.quora.com/What-is-the-meaning-of-the-28S-18s-ribosomal-ratio)
+* [What are some good ideas for interesting physics-related simulations to code as a side project?](https://www.quora.com/What-are-some-good-ideas-for-interesting-physics-related-simulations-to-code-as-a-side-project)
+* [What frequencies of sunlight hitting our skin result in our bodies' manufacture of Vitamin D?](https://www.quora.com/What-frequencies-of-sunlight-hitting-our-skin-result-in-our-bodies-manufacture-of-Vitamin-D)
+* [Is so-called "junk" DNA really useless?](https://www.quora.com/Genomics/Is-so-called-junk-DNA-really-useless)
+* [Why haven't any animals evolved wheels for locomotion?](https://www.quora.com/Why-havent-any-animals-evolved-wheels-for-locomotion)
+* [Does anyone really believe in the evolutional sequence of algae, fish, bird, mammal, human?](https://www.quora.com/Does-anyone-really-believe-in-the-evolutional-sequence-of-algae-fish-bird-mammal-human)
+* [Does a gene's location in the nucleus matter?](https://www.quora.com/Cell-Biology-2/Does-a-genes-location-in-the-nucleus-matter)
+
 
 ## Bioinformatics
 
