@@ -1,4 +1,4 @@
-uestions
+Questions
 =========
 
 * [How can the skeleton of a dinosaur remain intact after millions of years?](https://www.quora.com/How-can-the-skeleton-of-a-dinosaur-remain-intact-after-millions-of-years)
@@ -45,6 +45,11 @@ uestions
 * [Why haven't any animals evolved wheels for locomotion?](https://www.quora.com/Why-havent-any-animals-evolved-wheels-for-locomotion)
 * [Does anyone really believe in the evolutional sequence of algae, fish, bird, mammal, human?](https://www.quora.com/Does-anyone-really-believe-in-the-evolutional-sequence-of-algae-fish-bird-mammal-human)
 * [Does a gene's location in the nucleus matter?](https://www.quora.com/Cell-Biology-2/Does-a-genes-location-in-the-nucleus-matter)
+* [What's the difference between epigenetics and Lamarckism?](https://www.quora.com/Whats-the-difference-between-epigenetics-and-Lamarckism)
+* [Why does life use a quaternary system (A, T, G, C) to encode information instead of a binary system?](https://www.quora.com/Why-does-life-use-a-quaternary-system-A-T-G-C-to-encode-information-instead-of-a-binary-system)
+* [How does one physically interpret the different diffraction patterns between A-DNA and B-DNA?](https://www.quora.com/How-does-one-physically-interpret-the-different-diffraction-patterns-between-A-DNA-and-B-DNA)
+* [How does evolution work?](https://www.quora.com/How-does-evolution-work)
+* [How do histones control gene expression?](https://www.quora.com/How-do-histones-control-gene-expression)
 
 
 ## Bioinformatics
