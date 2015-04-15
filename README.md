@@ -33,6 +33,7 @@ Molecular Biology
 -----------------
 
 * [Molecular Biology of Gene by *Watson et al*](http://www.amazon.com/Molecular-Biology-Books-Carte-Edition/dp/0321905377)
+* **QUORA**: [What are the best papers in Molecular Biology?](https://www.quora.com/What-are-the-best-papers-in-molecular-biology)
 
 Genetics
 --------
