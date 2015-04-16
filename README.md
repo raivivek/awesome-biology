@@ -56,7 +56,6 @@ Bioinformatics
 * [Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713)
 * Faham, S. et al. Side-chain Contributions to Membrane Protein Structure and Stability. J. Mol. Biol. 335, 297–305 (2004).
   [dx.doi.org..](http://dx.doi.org/10.1016/j.jmb.2003.10.041)
-* [ResearchKit](https://github.com/ResearchKit/ResearchKit) - framework to create apps for medical research
 
 Protein Engineering
 -------------------
@@ -67,3 +66,7 @@ Protein Engineering
   [dx.doi.org..](http://dx.doi.org/10.1016/0968-0004(89)90070-4)
 * Strandberg, B. Chapter 1: Building the Ground for the First Two Protein Structures: Myoglobin and Haemoglobin. J. Mol. Biol. 392, 2–10 (2009).
   [dx.doi.org..](http://dx.doi.org/10.1016/j.jmb.2009.05.087)
+
+Tools
+-----
+* [ResearchKit](https://github.com/ResearchKit/ResearchKit) - framework to create apps for medical research
