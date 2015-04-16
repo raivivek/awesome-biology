@@ -46,20 +46,20 @@ Genetics
 
 Omics & Sequencing
 ------------------
-* Waterston, R. H. (2002). On the sequencing of the human genome. Proceedings
+* Waterston, R. H. (2002). **On the sequencing of the human genome**. Proceedings
   of the National Academy of Sciences, 99(6), 3712–3716.
   [dx.doi.org..](http://dx.doi.org/10.1073/pnas.042692499)
-* Myers, E. W. (2002). On the sequencing and assembly of the human genome.
+* Myers, E. W. (2002). **On the sequencing and assembly of the human genome.**
   Proceedings of the National Academy of Sciences, 99(7), 4145–4146.
   [dx.doi.org..](http://dx.doi.org/10.1073/pnas.092136699)
 * Nik-Zainal, S., Alexandrov, L. B., Wedge, D. C., Van Loo, P., Greenman, C.
-  D., Raine, K., Jones, D., et al. (2012). Mutational Processes Molding the
-  Genomes of 21 Breast Cancers. Cell, 149(5), 979–993.
+  D., Raine, K., Jones, D., et al. (2012). **Mutational Processes Molding the
+  Genomes of 21 Breast Cancers.** Cell, 149(5), 979–993.
   [dx.doi.org..](http://dx.doi.org/10.1016/j.cell.2012.04.024)
 * Thurman, R. E., Rynes, E., Humbert, R., Vierstra, J., Maurano, M. T., Haugen,
-  E., Sheffield, N. C., et al. (2012). The accessible chromatin landscape of
-  the human genome. Nature, 489(7414), 75–82. [dx.doi.org..](http://dx.doi.org/10.1038/nature11232)
-* Wang, Z., Gerstein, M. & Snyder, M. RNA-Seq: a revolutionary tool for transcriptomics. Nat. Rev. Genet. 10, 57–63 (2009).
+  E., Sheffield, N. C., et al. (2012). **The accessible chromatin landscape of
+  the human genome**. Nature, 489(7414), 75–82. [dx.doi.org..](http://dx.doi.org/10.1038/nature11232)
+* Wang, Z., Gerstein, M. & Snyder, M. **RNA-Seq: a revolutionary tool for transcriptomics**. Nat. Rev. Genet. 10, 57–63 (2009).
   [dx.doi.org..](http://dx.doi.org/10.1038/nrg2484)
 
 Bioinformatics
@@ -67,15 +67,15 @@ Bioinformatics
 
 * [Curated list of papers for Computational Genomics](https://github.com/jtleek/genomicspapers)
 * [Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713)
-* Faham, S. et al. Side-chain Contributions to Membrane Protein Structure and Stability. J. Mol. Biol. 335, 297–305 (2004).
+* Faham, S. et al. **Side-chain Contributions to Membrane Protein Structure and Stability**. J. Mol. Biol. 335, 297–305 (2004).
   [dx.doi.org..](http://dx.doi.org/10.1016/j.jmb.2003.10.041)
 
 Protein Engineering
 -------------------
 
-* Strandberg, Bror. - 50 Years of Protein Structure Analysis. - 2009. -  Journal of Molecular Biology. - 0022-2836. ; 392:1, s. 2-32
+* Strandberg, Bror. - **50 Years of Protein Structure Analysis.** - 2009. -  Journal of Molecular Biology. - 0022-2836. ; 392:1, s. 2-32
   [dx.doi.org..](http://dx.doi.org/10.1016/j.jmb.2009.05.087)
-* Janes S. Richardson, David C. Richardson, The *de novo* design of protein structures, Trends in Biochemical Sciences, Volume 14, Issue 7, July 1989, Pages 304-309, ISSN 0968-0004,
+* Janes S. Richardson, David C. Richardson, **The *de novo* design of protein structures**, Trends in Biochemical Sciences, Volume 14, Issue 7, July 1989, Pages 304-309, ISSN 0968-0004,
   [dx.doi.org..](http://dx.doi.org/10.1016/0968-0004(89)90070-4)
-* Strandberg, B. Chapter 1: Building the Ground for the First Two Protein Structures: Myoglobin and Haemoglobin. J. Mol. Biol. 392, 2–10 (2009).
+* Strandberg, B. **Chapter 1: Building the Ground for the First Two Protein Structures: Myoglobin and Haemoglobin.** J. Mol. Biol. 392, 2–10 (2009).
   [dx.doi.org..](http://dx.doi.org/10.1016/j.jmb.2009.05.087)
