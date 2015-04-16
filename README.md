@@ -44,8 +44,21 @@ Genetics
 > that facts are easily assimilated and arguments/discursive points easily
 > followed. The part on recombinant DNA is particularly good. - C A Smith (*Biochemical Education, Volume 19, Issue 4*)
 
-Omics
------
+Omics & Sequencing
+------------------
+* Waterston, R. H. (2002). On the sequencing of the human genome. Proceedings
+  of the National Academy of Sciences, 99(6), 3712–3716.
+  [dx.doi.org..](http://dx.doi.org/10.1073/pnas.042692499)
+* Myers, E. W. (2002). On the sequencing and assembly of the human genome.
+  Proceedings of the National Academy of Sciences, 99(7), 4145–4146.
+  [dx.doi.org..](http://dx.doi.org/10.1073/pnas.092136699)
+* Nik-Zainal, S., Alexandrov, L. B., Wedge, D. C., Van Loo, P., Greenman, C.
+  D., Raine, K., Jones, D., et al. (2012). Mutational Processes Molding the
+  Genomes of 21 Breast Cancers. Cell, 149(5), 979–993.
+  [dx.doi.org..](http://dx.doi.org/10.1016/j.cell.2012.04.024)
+* Thurman, R. E., Rynes, E., Humbert, R., Vierstra, J., Maurano, M. T., Haugen,
+  E., Sheffield, N. C., et al. (2012). The accessible chromatin landscape of
+  the human genome. Nature, 489(7414), 75–82. [dx.doi.org..](http://dx.doi.org/10.1038/nature11232)
 * Wang, Z., Gerstein, M. & Snyder, M. RNA-Seq: a revolutionary tool for transcriptomics. Nat. Rev. Genet. 10, 57–63 (2009).
   [dx.doi.org..](http://dx.doi.org/10.1038/nrg2484)
 
