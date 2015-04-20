@@ -80,6 +80,11 @@ Protein Engineering
 * Strandberg, B. **Chapter 1: Building the Ground for the First Two Protein Structures: Myoglobin and Haemoglobin.** J. Mol. Biol. 392, 2–10 (2009).
   [dx.doi.org..](http://dx.doi.org/10.1016/j.jmb.2009.05.087)
 
+Blog Posts
+----------
+
+* [What are some essential websites for biologists?](https://www.ocf.berkeley.edu/~asiegel/posts/?p=35)
+
 Tools
 -----
 * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - framework to create apps for medical research
