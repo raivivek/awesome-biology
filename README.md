@@ -35,6 +35,16 @@ Molecular Biology
 * [Molecular Biology of Gene by *Watson et al*](http://www.amazon.com/Molecular-Biology-Books-Carte-Edition/dp/0321905377)
 * **QUORA**: [What are the best papers in Molecular Biology?](https://www.quora.com/What-are-the-best-papers-in-molecular-biology)
 
+Physical Biology
+----------------
+
+* [Physical Biology of the Cell by *Phillips et al*](http://microsite.garlandscience.com/pboc2/)
+
+Immunology
+----------
+
+* [How the Immune System Works?](http://www.amazon.com/Immune-System-Includes-Desktop-Edition/dp/0470657294)
+
 Genetics
 --------
 
@@ -80,10 +90,11 @@ Protein Engineering
 * Strandberg, B. **Chapter 1: Building the Ground for the First Two Protein Structures: Myoglobin and Haemoglobin.** J. Mol. Biol. 392, 2–10 (2009).
   [dx.doi.org..](http://dx.doi.org/10.1016/j.jmb.2009.05.087)
 
-Blog Posts
-----------
+Blog Posts/Links
+----------------
 
 * [What are some essential websites for biologists?](https://www.ocf.berkeley.edu/~asiegel/posts/?p=35)
+* [Papers-per-week](http://github.io/vivekiitkpg/papers-per-week), an interesting collection of papers (with reviews!)
 
 Tools
 -----
