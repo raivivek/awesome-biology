@@ -96,6 +96,9 @@ Blog Posts/Links
 * [What are some essential websites for biologists?](https://www.ocf.berkeley.edu/~asiegel/posts/?p=35)
 * [Papers-per-week](http://github.io/vivekiitkpg/papers-per-week), an interesting collection of papers (with reviews!)
 * [Protein Love @ Quora](https://proteinlove.quora.com/)
+* [Bioscience club @ Quora](https://bioscienceclub.quora.com), discusses great answers on Quora and anything else bio-related
+* [Virology, immunology, biology @ Quota](https://iayork.quora.com/) by Ian York
+* [Quorky Biology](https://vidushirastogi.quora.com/)
 
 Tools
 -----
