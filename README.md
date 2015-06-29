@@ -28,6 +28,7 @@ Introductory
 ------------
 
 * [Campbell Biology](http://www.amazon.com/Campbell-Biology-Edition-Jane-Reece/dp/0321558235/ref=zg_bs_226688_5)
+* [Clinical Microbiology Made Ridiculously Simple](http://www.amazon.in/gp/product/094078081X)
 
 Molecular Biology
 -----------------
@@ -103,3 +104,13 @@ Blog Posts/Links
 Tools
 -----
 * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - framework to create apps for medical research
+
+Journals
+--------
+
+* [nature](http://nature.com/nature)
+* [Annual Reviews](http://www.annualreviews.org/)
+* [Cell Press](http://cell.com)
+* [Science](http://sciencemag.org)
+* [Current Opinion](http://www.current-opinion.com/default.aspx)
+* [Oxford Journals](http://oxfordjournals.org/)
