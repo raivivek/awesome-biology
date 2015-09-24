@@ -21,8 +21,9 @@ Table of Contents
 General Reading
 ---------------
 
-* [The Epic History of Biology by Serafini](http://www.amazon.com/dp/073820577X)
-* [The Selfish Gene by Richard Dawkins](http://www.amazon.com/dp/0199291152)
+* [The Epic History of Biology by *Serafini*](http://www.amazon.com/dp/073820577X)
+* [The Selfish Gene by *Richard Dawkins*](http://www.amazon.com/dp/0199291152)
+* [What is Life by *Erwin Schrodinger*](whatislife.stanford.edu/LoCo_files/What-is-Life.pdf) (Public Domain)
 
 Introductory
 ------------
@@ -45,6 +46,7 @@ Immunology
 ----------
 
 * [How the Immune System Works?](http://www.amazon.com/Immune-System-Includes-Desktop-Edition/dp/0470657294)
+* [*Janeway's* Immunobiology](http://www.garlandscience.com/product/isbn/9780815342434)
 
 Genetics
 --------
@@ -91,6 +93,12 @@ Protein Engineering
 * Strandberg, B. **Chapter 1: Building the Ground for the First Two Protein Structures: Myoglobin and Haemoglobin.** J. Mol. Biol. 392, 2–10 (2009).
   [dx.doi.org..](http://dx.doi.org/10.1016/j.jmb.2009.05.087)
 
+Laboratory Manuals
+------------------
+
+* [Molecular Cloning: A Laboratory Manual by *Sambrook*](http://www.molecularcloning.com/)
+* [Prescott's Microbiology](http://www.amazon.in/Prescotts-Microbiology-Joanne-Willey/dp/0077350138)
+
 Blog Posts/Links
 ----------------
 
@@ -100,6 +108,7 @@ Blog Posts/Links
 * [Bioscience club @ Quora](https://bioscienceclub.quora.com), discusses great answers on Quora and anything else bio-related
 * [Virology, immunology, biology @ Quota](https://iayork.quora.com/) by Ian York
 * [Quorky Biology](https://vidushirastogi.quora.com/)
+* [Biophysics Research Blog](https://biophysicsblog.quora.com/)
 
 Tools
 -----
