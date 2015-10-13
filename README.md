@@ -1,5 +1,5 @@
 An attempt to collect a curated list of awesome learning resources, research
-papers, tools and other resources related to Biology. This is inpired from
+papers, tools and other resources related to Biology. This is inspired from
 several such lists in programming community.
 
 If you want to contribute to this list (please do), [send a pull
@@ -105,10 +105,13 @@ Blog Posts/Links
 * [What are some essential websites for biologists?](https://www.ocf.berkeley.edu/~asiegel/posts/?p=35)
 * [Papers-per-week](http://github.io/vivekiitkpg/papers-per-week), an interesting collection of papers (with reviews!)
 * [Protein Love @ Quora](https://proteinlove.quora.com/)
-* [Bioscience club @ Quora](https://bioscienceclub.quora.com), discusses great answers on Quora and anything else bio-related
+* [Bioscience club @ Quora](https://bioscienceclub.quora.com), discusses great biology related answers on Quora
 * [Virology, immunology, biology @ Quota](https://iayork.quora.com/) by Ian York
 * [Quorky Biology](https://vidushirastogi.quora.com/)
 * [Biophysics Research Blog](https://biophysicsblog.quora.com/)
+* [r/biology](https://www.reddit.com/r/biology)
+* [r/bioinformatics](https://www.reddit.com/r/bioinformatics/comments/191ykr/resources_for_learning_bioinformatics/)
+* [r/learnbioinformatics](https://www.reddit.com/r/learnbioinformatics/wiki/index)
 
 Tools
 -----
