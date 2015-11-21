@@ -24,12 +24,17 @@ General Reading
 * [The Epic History of Biology by *Serafini*](http://www.amazon.com/dp/073820577X)
 * [The Selfish Gene by *Richard Dawkins*](http://www.amazon.com/dp/0199291152)
 * [What is Life by *Erwin Schrodinger*](whatislife.stanford.edu/LoCo_files/What-is-Life.pdf) (Public Domain)
+* [The Immortal Life of Henrietta Lacks by *Rebecca Skloot*](http://rebeccaskloot.com/the-immortal-life/)
+* [The Red Queen: Sex and the Evolution of Human Nature by *Matt Ridley*](https://en.wikipedia.org/wiki/The_Red_Queen:_Sex_and_the_Evolution_of_Human_Nature)
+* [The Richness of Life by *Stephen Jay Gould*](https://www.goodreads.com/book/show/33937.The_Richness_of_Life)
+* [Guns, Germs, and Steel: The Fates of Human Societies by *Jared Diamond*](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel)
 
 Introductory
 ------------
 
 * [Campbell Biology](http://www.amazon.com/Campbell-Biology-Edition-Jane-Reece/dp/0321558235/ref=zg_bs_226688_5)
 * [Clinical Microbiology Made Ridiculously Simple](http://www.amazon.in/gp/product/094078081X)
+* [The Deeper Genome by *John Parrington*](http://ukcatalogue.oup.com/product/9780199688739.do)
 
 Molecular Biology
 -----------------
