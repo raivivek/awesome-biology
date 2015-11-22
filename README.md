@@ -39,8 +39,8 @@ Introductory
 Molecular Biology
 -----------------
 
-* [Molecular Biology of Gene by *Watson et al*](http://www.amazon.com/Molecular-Biology-Books-Carte-Edition/dp/0321905377)
 * **QUORA**: [What are the best papers in Molecular Biology?](https://www.quora.com/What-are-the-best-papers-in-molecular-biology)
+* [Molecular Biology of Gene by *Watson et al*](http://www.amazon.com/Molecular-Biology-Books-Carte-Edition/dp/0321905377)
 
 Physical Biology
 ----------------
@@ -85,8 +85,7 @@ Bioinformatics
 
 * [Curated list of papers for Computational Genomics](https://github.com/jtleek/genomicspapers)
 * [Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713)
-* Faham, S. et al. **Side-chain Contributions to Membrane Protein Structure and Stability**. J. Mol. Biol. 335, 297–305 (2004).
-  [dx.doi.org..](http://dx.doi.org/10.1016/j.jmb.2003.10.041)
+* [Bioinformatics and Functional Genomics by *Jonathan Pevsner*](http://www.bioinfbook.org/php/?q=book3)
 
 Protein Engineering
 -------------------
@@ -104,7 +103,7 @@ Laboratory Manuals
 * [Molecular Cloning: A Laboratory Manual by *Sambrook*](http://www.molecularcloning.com/)
 * [Prescott's Microbiology](http://www.amazon.in/Prescotts-Microbiology-Joanne-Willey/dp/0077350138)
 
-Blog Posts/Links
+Blogs/Links
 ----------------
 
 * [What are some essential websites for biologists?](https://www.ocf.berkeley.edu/~asiegel/posts/?p=35)
@@ -125,9 +124,18 @@ Tools
 Journals
 --------
 
-* [nature](http://nature.com/nature)
+* [Nature](http://nature.com/nature)
 * [Annual Reviews](http://www.annualreviews.org/)
 * [Cell Press](http://cell.com)
 * [Science](http://sciencemag.org)
 * [Current Opinion](http://www.current-opinion.com/default.aspx)
 * [Oxford Journals](http://oxfordjournals.org/)
+* [PNAS]
+
+MOOCs
+-----
+* [Finding Hidden Messages in DNA (Bioinformatics I)](https://www.coursera.org/course/hiddenmessages)
+* [Network Analysis in Systems Biology](https://www.coursera.org/course/netsysbio)
+* [Introduction to Systems Biology](https://www.coursera.org/course/sysbio)
+* [Epigenetic Control of Gene Expression](https://www.coursera.org/course/epigenetics)
+* [Experimental Genome Science](https://www.coursera.org/course/genomescience)
