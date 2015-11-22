@@ -84,8 +84,12 @@ Bioinformatics
 --------------
 
 * [Curated list of papers for Computational Genomics](https://github.com/jtleek/genomicspapers)
-* [Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713)
+* [Practical Computing for Biologists by *Steven Haddock* and *Casey Dunn*](http://practicalcomputing.org/)
+* [An Introduction to Bioinformatics Algorithms by *Pavel Pevzner*](http://mitpress.mit.edu/catalog/item/default.asp?tid=10337&ttype=2)
 * [Bioinformatics and Functional Genomics by *Jonathan Pevsner*](http://www.bioinfbook.org/php/?q=book3)
+* [Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713)
+* [Bioinformatics: Machine learning approaches](http://books.google.com/books?id=pxSM7R1sdeQC&dq=Pierre+baldi+%2B+bioinformatics&printsec=frontcover&source=bn&hl=en&ei=IoGRS6uCIJT-NYLA8Z0N&sa=X&oi=book_result&ct=result&resnum=4&ved=0CBUQ6AEwAw#v=onepage&q=&f=false)
+* [Statistical Methods in Bioinformatics: An Introduction by *Ewens*](https://www.springer.com/in/book/9780387400822)
 
 Protein Engineering
 -------------------
@@ -113,13 +117,16 @@ Blogs/Links
 * [Virology, immunology, biology @ Quota](https://iayork.quora.com/) by Ian York
 * [Quorky Biology](https://vidushirastogi.quora.com/)
 * [Biophysics Research Blog](https://biophysicsblog.quora.com/)
-* [r/biology](https://www.reddit.com/r/biology)
-* [r/bioinformatics](https://www.reddit.com/r/bioinformatics/comments/191ykr/resources_for_learning_bioinformatics/)
-* [r/learnbioinformatics](https://www.reddit.com/r/learnbioinformatics/wiki/index)
+* [reddit/biology](https://www.reddit.com/r/biology)
+* [reddit/bioinformatics](https://www.reddit.com/r/bioinformatics/comments/191ykr/resources_for_learning_bioinformatics/)
+* [reddit/learnbioinformatics](https://www.reddit.com/r/learnbioinformatics/wiki/index)
+* [Biostars Tutorials](https://www.biostars.org/t/Tutorials/)
+* [Rosalind](http://rosalind.info)
 
 Tools
 -----
 * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - framework to create apps for medical research
+* [OMICS Tools](http://omictools.com/) - a huge collection of tools
 
 Journals
 --------
@@ -130,7 +137,7 @@ Journals
 * [Science](http://sciencemag.org)
 * [Current Opinion](http://www.current-opinion.com/default.aspx)
 * [Oxford Journals](http://oxfordjournals.org/)
-* [PNAS]
+* [PNAS](http://pnas.org)
 
 MOOCs
 -----
