@@ -141,7 +141,7 @@ Journals
 
 MOOCs
 -----
-* [Finding Hidden Messages in DNA (Bioinformatics I)](https://www.coursera.org/course/hiddenmessages)
+* [Bioinformatics: Journey to the Frontier of Computational Biology Specialization](https://www.coursera.org/specializations/bioinformatics?utm_medium=courseDescripTop)
 * [Network Analysis in Systems Biology](https://www.coursera.org/course/netsysbio)
 * [Introduction to Systems Biology](https://www.coursera.org/course/sysbio)
 * [Epigenetic Control of Gene Expression](https://www.coursera.org/course/epigenetics)
