@@ -80,6 +80,12 @@ Omics & Sequencing
 * Wang, Z., Gerstein, M. & Snyder, M. **RNA-Seq: a revolutionary tool for transcriptomics**. Nat. Rev. Genet. 10, 57–63 (2009).
   [dx.doi.org..](http://dx.doi.org/10.1038/nrg2484)
 
+Systems Biology and Genetic Networks
+------------------------------------
+
+* Kaneko, K. (2006). **Life: An Introduction to Complex Systems Biology.** Springer
+  Berlin Heidelberg. http://doi.org/10.1007/978-3-540-32667-0
+
 Bioinformatics
 --------------
 
@@ -90,6 +96,7 @@ Bioinformatics
 * [Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713)
 * [Bioinformatics: Machine learning approaches](http://books.google.com/books?id=pxSM7R1sdeQC&dq=Pierre+baldi+%2B+bioinformatics&printsec=frontcover&source=bn&hl=en&ei=IoGRS6uCIJT-NYLA8Z0N&sa=X&oi=book_result&ct=result&resnum=4&ved=0CBUQ6AEwAw#v=onepage&q=&f=false)
 * [Statistical Methods in Bioinformatics: An Introduction by *Ewens*](https://www.springer.com/in/book/9780387400822)
+* [Introduction to Protein-DNA interactions by *Gary Stormo*](http://www.amazon.es/Introduction-Protein-DNA-Interactions-Thermodynamics-Bioinformatics/dp/1936113503?tag=duc0d-21)
 
 Protein Engineering
 -------------------
@@ -122,6 +129,7 @@ Blogs/Links
 * [reddit/learnbioinformatics](https://www.reddit.com/r/learnbioinformatics/wiki/index)
 * [Biostars Tutorials](https://www.biostars.org/t/Tutorials/)
 * [Rosalind](http://rosalind.info)
+* [Omicsmania](http://omicsmania.com)
 
 Tools
 -----
