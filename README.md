@@ -21,6 +21,11 @@ Table of Contents
 General Reading
 ---------------
 
+> Books written in popular science style yet sufficiently technical in
+> appropriate cases to provide you an interesting tour of all big and small
+> phenomenon in biology and universe.
+> (Unordered list)
+
 * [The Epic History of Biology by *Serafini*](http://www.amazon.com/dp/073820577X)
 * [The Selfish Gene by *Richard Dawkins*](http://www.amazon.com/dp/0199291152)
 * [What is Life by *Erwin Schrodinger*](whatislife.stanford.edu/LoCo_files/What-is-Life.pdf) (Public Domain)
@@ -28,6 +33,30 @@ General Reading
 * [The Red Queen: Sex and the Evolution of Human Nature by *Matt Ridley*](https://en.wikipedia.org/wiki/The_Red_Queen:_Sex_and_the_Evolution_of_Human_Nature)
 * [The Richness of Life by *Stephen Jay Gould*](https://www.goodreads.com/book/show/33937.The_Richness_of_Life)
 * [Guns, Germs, and Steel: The Fates of Human Societies by *Jared Diamond*](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel)
+* [The Ascent of Man by *Jacob Bronowski*]
+* [Power, Sex and Suicide by *Nick Lane*]
+* [Emperor of all Maladies *Siddhartha Mukherjee*]
+* [The Eighth Day of Creation by *Judson*]
+* [The Human Zoo by *Desmond Morris*]
+* [The Biology of Cancer by *Weinberg*]
+* [The Blind Watchmaker by *Richard Dawkins*]
+* [The Equation That Couldn't be Solved by *Mario Livio*]
+* [The Golden Ratio by *Mario Livio*]
+* [The Complexity Paradox by *Kenneth Mossman*]
+* [Mathematical Ecology of populations and ecosystems by *John Pastor*]
+* [Physics in Molecular Biology by *Kim Sneppen*]
+* [On Growth and Form by *D'Arcy Wentworth Thomsom*]
+* [Mathematical modeling in systems biology by *Brian Ingalls*]
+* [The Big Questions Evolution by *Francisco Ayala*]
+* [The Making of a Fly by *Peter Lawrence*]
+* [Molecular Machines in Biology by *Joachim Frank*]
+* [Cell Motility from Molecules to Organisms by *Ridley and Peckham*]
+* [Random Walks in Biology by *Howard Berg*]
+* [Elephants on Acids and Other Bizarre Experiments by *Alex Boese*]
+* [The Genetic Switch by *Mark Ptashne*]
+* [Sapiens: A Brief History of Humankind by *Yuval Noah Harari*]
+* [Life on Earth and The Living Planet by *David Attenborough*]
+
 
 Introductory
 ------------
