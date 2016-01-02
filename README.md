@@ -23,7 +23,7 @@ General Reading
 
 > Books written in popular science style yet sufficiently technical in
 > appropriate cases to provide you an interesting tour of all big and small
-> phenomenon in biology and universe.
+> process in universe and its biology.
 > (Unordered list)
 
 * [The Epic History of Biology by *Serafini*](http://www.amazon.com/dp/073820577X)
@@ -35,16 +35,14 @@ General Reading
 * [Guns, Germs, and Steel: The Fates of Human Societies by *Jared Diamond*](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel)
 * [The Ascent of Man by *Jacob Bronowski*]
 * [Power, Sex and Suicide by *Nick Lane*]
-* [Emperor of all Maladies *Siddhartha Mukherjee*]
+* [Emperor of all Maladies by *Siddhartha Mukherjee*](http://www.amazon.com/Emperor-All-Maladies-Biography-Cancer/dp/1439170916/ref=sr_1_1?s=books&ie=UTF8&qid=1451746489&sr=1-1&keywords=emperor+of+all+maladies)
 * [The Eighth Day of Creation by *Judson*]
 * [The Human Zoo by *Desmond Morris*]
 * [The Biology of Cancer by *Weinberg*]
-* [The Blind Watchmaker by *Richard Dawkins*]
 * [The Equation That Couldn't be Solved by *Mario Livio*]
 * [The Golden Ratio by *Mario Livio*]
 * [The Complexity Paradox by *Kenneth Mossman*]
 * [Mathematical Ecology of populations and ecosystems by *John Pastor*]
-* [Physics in Molecular Biology by *Kim Sneppen*]
 * [On Growth and Form by *D'Arcy Wentworth Thomsom*]
 * [Mathematical modeling in systems biology by *Brian Ingalls*]
 * [The Big Questions Evolution by *Francisco Ayala*]
@@ -53,7 +51,6 @@ General Reading
 * [Cell Motility from Molecules to Organisms by *Ridley and Peckham*]
 * [Random Walks in Biology by *Howard Berg*]
 * [Elephants on Acids and Other Bizarre Experiments by *Alex Boese*]
-* [The Genetic Switch by *Mark Ptashne*]
 * [Sapiens: A Brief History of Humankind by *Yuval Noah Harari*]
 * [Life on Earth and The Living Planet by *David Attenborough*]
 
@@ -61,9 +58,23 @@ General Reading
 Introductory
 ------------
 
-* [Campbell Biology](http://www.amazon.com/Campbell-Biology-Edition-Jane-Reece/dp/0321558235/ref=zg_bs_226688_5)
-* [Clinical Microbiology Made Ridiculously Simple](http://www.amazon.in/gp/product/094078081X)
+* [Campbell Biology](http://www.amazon.com/Campbell-Biology-Edition-Jane-Reece/dp/0321558235/ref=zg_bs_226688_5) [Clinical Microbiology Made Ridiculously Simple](http://www.amazon.in/gp/product/094078081X)
 * [The Deeper Genome by *John Parrington*](http://ukcatalogue.oup.com/product/9780199688739.do)
+
+Biophysics
+----------
+
+* [Feynman Lectures On Computation by *Richard Feynman*](http://www.amazon.com/Feynman-Lectures-On-Computation-Richard/dp/0738202967)
+* [Physics in Molecular Biology by *Kim Sneppen*]
+
+Evolution
+---------
+
+* [The Origins of Evolutionary Innovations by *Andreas Wagner*](https://global.oup.com/academic/product/the-origins-of-evolutionary-innovations-9780199692606?cc=in&lang=en&) 
+* [The Growth of Biological Thought](https://en.wikipedia.org/wiki/The_Growth_of_Biological_Thought)
+* [Robustness and Evolvability in Living Systems by *Andreas Wagner*](http://press.princeton.edu/titles/8002.html)
+* [Arrival of the Fittest: Solving Evolution's Greatest Puzzle by *Andreas Wagner*](http://www.amazon.com/Arrival-Fittest-Solving-Evolutions-Greatest/dp/1591846463)
+
 
 Molecular Biology
 -----------------
@@ -112,8 +123,10 @@ Omics & Sequencing
 Systems Biology and Genetic Networks
 ------------------------------------
 
-* Kaneko, K. (2006). **Life: An Introduction to Complex Systems Biology.** Springer
-  Berlin Heidelberg. http://doi.org/10.1007/978-3-540-32667-0
+* Kaneko, K. (2006). [**Life: An Introduction to Complex Systems Biology**](http://doi.org/10.1007/978-3-540-32667-0)
+Springer Berlin Heidelberg. 
+* [An Introduction to Systems Biology by *Uri Alon*](http://www.amazon.com/Introduction-Systems-Biology-Mathematical-Computational/dp/1584886420)
+* [A Genetic Switch by *Mark Ptashne*](http://www.amazon.com/Genetic-Switch-Third-Edition-Revisited/dp/0879697164)
 
 Bioinformatics
 --------------
@@ -125,7 +138,7 @@ Bioinformatics
 * [Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713)
 * [Bioinformatics: Machine learning approaches](http://books.google.com/books?id=pxSM7R1sdeQC&dq=Pierre+baldi+%2B+bioinformatics&printsec=frontcover&source=bn&hl=en&ei=IoGRS6uCIJT-NYLA8Z0N&sa=X&oi=book_result&ct=result&resnum=4&ved=0CBUQ6AEwAw#v=onepage&q=&f=false)
 * [Statistical Methods in Bioinformatics: An Introduction by *Ewens*](https://www.springer.com/in/book/9780387400822)
-* [Introduction to Protein-DNA interactions by *Gary Stormo*](http://www.amazon.es/Introduction-Protein-DNA-Interactions-Thermodynamics-Bioinformatics/dp/1936113503?tag=duc0d-21)
+* [Introduction to Protein-DNA Interactions by *Gary Stormo*](http://www.amazon.es/Introduction-Protein-DNA-Interactions-Thermodynamics-Bioinformatics/dp/1936113503?tag=duc0d-21)
 
 Protein Engineering
 -------------------
