@@ -58,8 +58,11 @@ General Reading
 Introductory
 ------------
 
-* [Campbell Biology](http://www.amazon.com/Campbell-Biology-Edition-Jane-Reece/dp/0321558235/ref=zg_bs_226688_5) [Clinical Microbiology Made Ridiculously Simple](http://www.amazon.in/gp/product/094078081X)
+* [Campbell Biology](http://www.amazon.com/Campbell-Biology-Edition-Jane-Reece/dp/0321558235/ref=zg_bs_226688_5)
+* [Clinical Microbiology Made Ridiculously Simple](http://www.amazon.in/gp/product/094078081X)
 * [The Deeper Genome by *John Parrington*](http://ukcatalogue.oup.com/product/9780199688739.do)
+* [Ancestors in Our Genome by *Eugene E. Harris*](https://global.oup.com/academic/product/ancestors-in-our-genome-9780199978038)
+* [The Developing Genome: An Introduction to Behavioral Epigenetics by *Davis S. Moore*](https://global.oup.com/academic/product/the-developing-genome-9780199922345)
 
 Biophysics
 ----------
