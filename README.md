@@ -136,7 +136,7 @@ Bioinformatics
 
 * [Curated list of papers for Computational Genomics](https://github.com/jtleek/genomicspapers)
 * [Practical Computing for Biologists by *Steven Haddock* and *Casey Dunn*](http://practicalcomputing.org/)
-* [An Introduction to Bioinformatics Algorithms by *Pavel Pevzner*](http://mitpress.mit.edu/catalog/item/default.asp?tid=10337&ttype=2)
+* [An Introduction to Bioinformatics Algorithms by *Pavel Pevzner*](https://mitpress.mit.edu/books/introduction-bioinformatics-algorithms)
 * [Bioinformatics and Functional Genomics by *Jonathan Pevsner*](http://www.bioinfbook.org/php/?q=book3)
 * [Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713)
 * [Bioinformatics: Machine learning approaches](http://books.google.com/books?id=pxSM7R1sdeQC&dq=Pierre+baldi+%2B+bioinformatics&printsec=frontcover&source=bn&hl=en&ei=IoGRS6uCIJT-NYLA8Z0N&sa=X&oi=book_result&ct=result&resnum=4&ved=0CBUQ6AEwAw#v=onepage&q=&f=false)
