@@ -163,6 +163,9 @@ Blogs/Links
 ----------------
 
 * [What are some essential websites for biologists?](https://www.ocf.berkeley.edu/~asiegel/posts/?p=35)
+* [Talks at ICTS](https://www.youtube.com/user/ICTStalks/playlists), an
+interesting collection of talks on statistical physics, systems biology, and
+much more. (**Recommended**)
 * [Papers-per-week](http://github.io/vivekiitkpg/papers-per-week), an interesting collection of papers (with reviews!)
 * [Protein Love @ Quora](https://proteinlove.quora.com/)
 * [Bioscience club @ Quora](https://bioscienceclub.quora.com), discusses great biology related answers on Quora
@@ -174,7 +177,6 @@ Blogs/Links
 * [reddit/learnbioinformatics](https://www.reddit.com/r/learnbioinformatics/wiki/index)
 * [Biostars Tutorials](https://www.biostars.org/t/Tutorials/)
 * [Rosalind](http://rosalind.info)
-* [Omicsmania](http://omicsmania.com)
 
 Tools
 -----
