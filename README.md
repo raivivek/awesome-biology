@@ -63,6 +63,7 @@ Introductory
 * [The Deeper Genome by *John Parrington*](http://ukcatalogue.oup.com/product/9780199688739.do)
 * [Ancestors in Our Genome by *Eugene E. Harris*](https://global.oup.com/academic/product/ancestors-in-our-genome-9780199978038)
 * [The Developing Genome: An Introduction to Behavioral Epigenetics by *Davis S. Moore*](https://global.oup.com/academic/product/the-developing-genome-9780199922345)
+* [The Systems View of Life: A Unifying Vision](http://www.amazon.com/Systems-View-Life-Unifying-Vision-ebook/dp/B00I0UNCES/ref=mt_kindle?_encoding=UTF8&me=)
 
 Biophysics
 ----------
