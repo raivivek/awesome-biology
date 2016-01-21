@@ -1,3 +1,11 @@
+<h1 align="center">
+	<br>
+	<img width="400" src="https://rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
+	<br>
+	<br>
+	<br>
+</h1>
+
 An attempt to collect a curated list of awesome learning resources, research
 papers, tools and other resources related to Biology. This is inspired from
 several such lists in programming community.
