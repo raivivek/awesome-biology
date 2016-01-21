@@ -93,11 +93,14 @@ Molecular Biology
 
 * **QUORA**: [What are the best papers in Molecular Biology?](https://www.quora.com/What-are-the-best-papers-in-molecular-biology)
 * [Molecular Biology of Gene by *Watson et al*](http://www.amazon.com/Molecular-Biology-Books-Carte-Edition/dp/0321905377)
+* [Molecular Cell Biology by *Lodish*](http://www.amazon.com/Molecular-Cell-Biology-Harvey-Lodish/dp/0716723808)
+* [Gene Cloning and DNA Analysis: An Introduction](http://as.wiley.com/WileyCDA/WileyTitle/productCd-EHEP002314.html)
 
 Physical Biology
 ----------------
 
 * [Physical Biology of the Cell by *Phillips et al*](http://microsite.garlandscience.com/pboc2/)
+* [Cell Biology by The Numbers](http://book.bionumbers.org/) (**Online**)
 
 Immunology
 ----------
@@ -110,9 +113,11 @@ Genetics
 
 * [Genes and Genomes: A Changing Perspective by Maxine Singer and Paul Berg](http://books.google.co.in/books/about/Genes_Genomes.html?id=h59BWkO5c1oC)
 
-> Students will like this text. The writing is clear and straight-forward so
-> that facts are easily assimilated and arguments/discursive points easily
-> followed. The part on recombinant DNA is particularly good. - C A Smith (*Biochemical Education, Volume 19, Issue 4*)
+  > Students will like this text. The writing is clear and straight-forward so
+  > that facts are easily assimilated and arguments/discursive points easily
+  > followed. The part on recombinant DNA is particularly good. - C A Smith (*Biochemical Education, Volume 19, Issue 4*)
+
+* [Concepts of Genetics](http://www.amazon.com/Concepts-Genetics-William-S-Klug/dp/0321795776)
 
 Omics & Sequencing
 ------------------
