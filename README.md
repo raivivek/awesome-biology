@@ -117,7 +117,7 @@ Genetics
   > that facts are easily assimilated and arguments/discursive points easily
   > followed. The part on recombinant DNA is particularly good. - C A Smith (*Biochemical Education, Volume 19, Issue 4*)
 
-* [Concepts of Genetics](http://www.amazon.com/Concepts-Genetics-William-S-Klug/dp/0321795776)
+* [Concepts of Genetics by *Klug*](http://www.amazon.com/Concepts-Genetics-William-S-Klug/dp/0321795776)
 
 Omics & Sequencing
 ------------------
@@ -144,6 +144,7 @@ Systems Biology and Genetic Networks
 Springer Berlin Heidelberg. 
 * [An Introduction to Systems Biology by *Uri Alon*](http://www.amazon.com/Introduction-Systems-Biology-Mathematical-Computational/dp/1584886420)
 * [A Genetic Switch by *Mark Ptashne*](http://www.amazon.com/Genetic-Switch-Third-Edition-Revisited/dp/0879697164)
+* [Systems Biology: Properties of Reconstructed Networks by *B. Palsson*](http://gcrg.ucsd.edu/Publications/Books)
 
 Bioinformatics
 --------------
