@@ -145,6 +145,8 @@ Springer Berlin Heidelberg.
 * [An Introduction to Systems Biology by *Uri Alon*](http://www.amazon.com/Introduction-Systems-Biology-Mathematical-Computational/dp/1584886420)
 * [A Genetic Switch by *Mark Ptashne*](http://www.amazon.com/Genetic-Switch-Third-Edition-Revisited/dp/0879697164)
 * [Systems Biology: Properties of Reconstructed Networks by *B. Palsson*](http://gcrg.ucsd.edu/Publications/Books)
+* [Lectures from Systems Biology Course by *Uri Alon*](http://www.weizmann.ac.il/mcb/UriAlon/movies/Systems%20Biology%20Course%202014)
+* [Lectures from Systems Biology: COnstraint Based Reconstruction and Analysis by *B. Palsson*](http://gcrg.ucsd.edu/Publications/Books/SB1-2LectureSlides)
 
 Bioinformatics
 --------------
@@ -201,25 +203,27 @@ Tools
 Journals
 --------
 
-* [Nature](http://nature.com/nature)
 * [Annual Reviews](http://www.annualreviews.org/)
 * [Cell Press](http://cell.com)
-* [Science](http://sciencemag.org)
 * [Current Opinion](http://www.current-opinion.com/default.aspx)
+* [Nature](http://nature.com/nature)
 * [Oxford Journals](http://oxfordjournals.org/)
 * [PNAS](http://pnas.org)
+* [Science](http://sciencemag.org)
 
 MOOCs
 -----
+
 * [Bioinformatics: Journey to the Frontier of Computational Biology Specialization](https://www.coursera.org/specializations/bioinformatics?utm_medium=courseDescripTop)
-* [Network Analysis in Systems Biology](https://www.coursera.org/course/netsysbio)
-* [Introduction to Systems Biology](https://www.coursera.org/course/sysbio)
+* [Complexity Explorer by *Santa Fe Institute*](http://www.complexityexplorer.org/online-courses/courses)
 * [Epigenetic Control of Gene Expression](https://www.coursera.org/course/epigenetics)
 * [Experimental Genome Science](https://www.coursera.org/course/genomescience)
+* [HarvardX's PH525-x Data Analysis Series](https://www.edx.org/course/data-analysis-life-sciences-1-statistics-harvardx-ph525-1x)
+* [Introduction to Systems Biology](https://www.coursera.org/course/sysbio)
+* [Introduction to Biomedical Imaging](https://www.edx.org/course/introduction-biomedical-imaging-uqx-bioimg101x-1)
+* [Introduction to Human Evolution](https://www.edx.org/course/introduction-human-evolution-wellesleyx-anth207x-1)
+* [Network Analysis in Systems Biology](https://www.coursera.org/course/netsysbio)
+* [Neuronal Dynamics: Computational Neuroscience of Single Neurons](https://www.edx.org/course/neuronal-dynamics-computational-epflx-bio465-1x)
 * [Principles of Synthetic Biology](https://www.edx.org/course/principles-synthetic-biology-mitx-20-305x)
 * [Principles of Biochemistry](https://www.edx.org/course/principles-biochemistry-harvardx-mcb63x)
 * [Proteins: Biology's Workforce](https://www.edx.org/course/proteins-biologys-workforce-ricex-bioc300-1x-0)
-* [HarvardX's PH525-x Data Analysis Series](https://www.edx.org/course/data-analysis-life-sciences-1-statistics-harvardx-ph525-1x)
-* [Introduction to Biomedical Imaging](https://www.edx.org/course/introduction-biomedical-imaging-uqx-bioimg101x-1)
-* [Introduction to Human Evolution](https://www.edx.org/course/introduction-human-evolution-wellesleyx-anth207x-1)
-* [Neuronal Dynamics: Computational Neuroscience of Single Neurons](https://www.edx.org/course/neuronal-dynamics-computational-epflx-bio465-1x)
