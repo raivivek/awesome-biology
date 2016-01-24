@@ -159,6 +159,7 @@ Bioinformatics
 * [Bioinformatics: Machine learning approaches](http://books.google.com/books?id=pxSM7R1sdeQC&dq=Pierre+baldi+%2B+bioinformatics&printsec=frontcover&source=bn&hl=en&ei=IoGRS6uCIJT-NYLA8Z0N&sa=X&oi=book_result&ct=result&resnum=4&ved=0CBUQ6AEwAw#v=onepage&q=&f=false)
 * [Statistical Methods in Bioinformatics: An Introduction by *Ewens*](https://www.springer.com/in/book/9780387400822)
 * [Introduction to Protein-DNA Interactions by *Gary Stormo*](http://www.amazon.es/Introduction-Protein-DNA-Interactions-Thermodynamics-Bioinformatics/dp/1936113503?tag=duc0d-21)
+* [Theory of Basic Alignment Search Tool (BLAST)](http://etutorials.org/Misc/blast/)
 
 Protein Engineering
 -------------------
@@ -169,6 +170,11 @@ Protein Engineering
   [dx.doi.org..](http://dx.doi.org/10.1016/0968-0004(89)90070-4)
 * Strandberg, B. **Chapter 1: Building the Ground for the First Two Protein Structures: Myoglobin and Haemoglobin.** J. Mol. Biol. 392, 2–10 (2009).
   [dx.doi.org..](http://dx.doi.org/10.1016/j.jmb.2009.05.087)
+
+Statistics | Data munging
+-------------------------
+
+* [Nature's Statistics for Biologists collection](http://www.nature.com/collections/qghhqm)
 
 Laboratory Manuals
 ------------------
@@ -218,6 +224,7 @@ MOOCs
 * [Complexity Explorer by *Santa Fe Institute*](http://www.complexityexplorer.org/online-courses/courses)
 * [Epigenetic Control of Gene Expression](https://www.coursera.org/course/epigenetics)
 * [Experimental Genome Science](https://www.coursera.org/course/genomescience)
+* [EMBL-EBI Online Training Courses](http://www.ebi.ac.uk/training/online/course-list)
 * [HarvardX's PH525-x Data Analysis Series](https://www.edx.org/course/data-analysis-life-sciences-1-statistics-harvardx-ph525-1x)
 * [Introduction to Systems Biology](https://www.coursera.org/course/sysbio)
 * [Introduction to Biomedical Imaging](https://www.edx.org/course/introduction-biomedical-imaging-uqx-bioimg101x-1)
