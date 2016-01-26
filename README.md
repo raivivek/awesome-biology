@@ -41,15 +41,15 @@ General Reading
 * [The Red Queen: Sex and the Evolution of Human Nature by *Matt Ridley*](https://en.wikipedia.org/wiki/The_Red_Queen:_Sex_and_the_Evolution_of_Human_Nature)
 * [The Richness of Life by *Stephen Jay Gould*](https://www.goodreads.com/book/show/33937.The_Richness_of_Life)
 * [Guns, Germs, and Steel: The Fates of Human Societies by *Jared Diamond*](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel)
-* [The Ascent of Man by *Jacob Bronowski*]
-* [Power, Sex and Suicide by *Nick Lane*]
+* [The Ascent of Man by *Jacob Bronowski*](https://en.wikipedia.org/wiki/The_Ascent_of_Man)
+* [Power, Sex and Suicide: Mitochondria and the Meaning of Life by *Nick
+    Lane*](https://en.wikipedia.org/wiki/Power,_Sex,_Suicide)
 * [Emperor of all Maladies by *Siddhartha Mukherjee*](http://www.amazon.com/Emperor-All-Maladies-Biography-Cancer/dp/1439170916/ref=sr_1_1?s=books&ie=UTF8&qid=1451746489&sr=1-1&keywords=emperor+of+all+maladies)
-* [The Eighth Day of Creation by *Judson*]
-* [The Human Zoo by *Desmond Morris*]
-* [The Biology of Cancer by *Weinberg*]
-* [The Equation That Couldn't be Solved by *Mario Livio*]
-* [The Golden Ratio by *Mario Livio*]
-* [The Complexity Paradox by *Kenneth Mossman*]
+* [The Eighth Day of Creation by *H. F. Judson*](http://www.cshlpress.com/default.tpl?cart=14538074292706651&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=294)
+* [The Human Zoo by *Desmond Morris*](https://en.wikipedia.org/wiki/The_Human_Zoo_%28book%29)
+* [The Equation That Couldn't be Solved by *Mario Livio*](http://www.amazon.com/The-Equation-That-Couldnt-Solved/dp/0743258215)
+* [The Golden Ratio by *Mario Livio*](http://www.amazon.com/The-Golden-Ratio-Worlds-Astonishing/dp/0767908163)
+* [The Complexity Paradox by *Kenneth Mossman*](https://global.oup.com/academic/product/the-complexity-paradox-9780199330348?cc=in&lang=en&)
 * [Mathematical Ecology of populations and ecosystems by *John Pastor*]
 * [On Growth and Form by *D'Arcy Wentworth Thomsom*]
 * [Mathematical modeling in systems biology by *Brian Ingalls*]
@@ -72,12 +72,13 @@ Introductory
 * [Ancestors in Our Genome by *Eugene E. Harris*](https://global.oup.com/academic/product/ancestors-in-our-genome-9780199978038)
 * [The Developing Genome: An Introduction to Behavioral Epigenetics by *Davis S. Moore*](https://global.oup.com/academic/product/the-developing-genome-9780199922345)
 * [The Systems View of Life: A Unifying Vision](http://www.amazon.com/Systems-View-Life-Unifying-Vision-ebook/dp/B00I0UNCES/ref=mt_kindle?_encoding=UTF8&me=)
+* [The Biology of Cancer by *Weinberg*](http://www.garlandscience.com/product/isbn/9780815342205)
 
 Biophysics
 ----------
 
 * [Feynman Lectures On Computation by *Richard Feynman*](http://www.amazon.com/Feynman-Lectures-On-Computation-Richard/dp/0738202967)
-* [Physics in Molecular Biology by *Kim Sneppen*]
+* [Physics in Molecular Biology by *Kim Sneppen*](http://ebooks.cambridge.org/ebook.jsf?bid=CBO9780511755699)
 
 Evolution
 ---------
@@ -111,7 +112,7 @@ Immunology
 Genetics
 --------
 
-* [Genes and Genomes: A Changing Perspective by Maxine Singer and Paul Berg](http://books.google.co.in/books/about/Genes_Genomes.html?id=h59BWkO5c1oC)
+* [Genes and Genomes: A Changing Perspective by *Maxine Singer* and *Paul Berg*](http://books.google.co.in/books/about/Genes_Genomes.html?id=h59BWkO5c1oC)
 
   > Students will like this text. The writing is clear and straight-forward so
   > that facts are easily assimilated and arguments/discursive points easily
@@ -140,8 +141,7 @@ Omics & Sequencing
 Systems Biology and Genetic Networks
 ------------------------------------
 
-* Kaneko, K. (2006). [**Life: An Introduction to Complex Systems Biology**](http://doi.org/10.1007/978-3-540-32667-0)
-Springer Berlin Heidelberg. 
+* [**Life: An Introduction to Complex Systems Biology** by *Kunihiko Kaneko*](http://doi.org/10.1007/978-3-540-32667-0)
 * [An Introduction to Systems Biology by *Uri Alon*](http://www.amazon.com/Introduction-Systems-Biology-Mathematical-Computational/dp/1584886420)
 * [A Genetic Switch by *Mark Ptashne*](http://www.amazon.com/Genetic-Switch-Third-Edition-Revisited/dp/0879697164)
 * [Systems Biology: Properties of Reconstructed Networks by *B. Palsson*](http://gcrg.ucsd.edu/Publications/Books)
@@ -192,6 +192,7 @@ much more. (**Recommended**)
 * [Papers-per-week](http://github.io/vivekiitkpg/papers-per-week), an interesting collection of papers (with reviews!)
 * [Protein Love @ Quora](https://proteinlove.quora.com/)
 * [Bioscience club @ Quora](https://bioscienceclub.quora.com), discusses great biology related answers on Quora
+* [it is NOT junk](http://www.michaeleisen.org/blog/), a blog about genomes, DNA, evolution, open science.. (by [Michael Eisen](http://www.michaeleisen.org/blog/?page_id=581))
 * [Virology, immunology, biology @ Quota](https://iayork.quora.com/) by Ian York
 * [Quorky Biology](https://vidushirastogi.quora.com/)
 * [Biophysics Research Blog](https://biophysicsblog.quora.com/)
