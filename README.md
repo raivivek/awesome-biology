@@ -74,6 +74,13 @@ Introductory
 * [The Systems View of Life: A Unifying Vision](http://www.amazon.com/Systems-View-Life-Unifying-Vision-ebook/dp/B00I0UNCES/ref=mt_kindle?_encoding=UTF8&me=)
 * [The Biology of Cancer by *Weinberg*](http://www.garlandscience.com/product/isbn/9780815342205)
 
+Biochemistry
+------------
+
+* [Biochemistry by *Berg*](http://www.amazon.com/Biochemistry-Jeremy-M-Berg/dp/1464126100/ref=zg_bs_689711011_1)
+* [Principles of Biochemistry by *Lehninger*](http://bcs.whfreeman.com/lehninger6e/)
+
+
 Biophysics
 ----------
 
@@ -93,6 +100,7 @@ Molecular Biology
 -----------------
 
 * **QUORA**: [What are the best papers in Molecular Biology?](https://www.quora.com/What-are-the-best-papers-in-molecular-biology)
+* [Molecular Biology of the Cell by *Bruce Alberts*](http://www.garlandscience.com/product/isbn/0815341059)
 * [Molecular Biology of Gene by *Watson et al*](http://www.amazon.com/Molecular-Biology-Books-Carte-Edition/dp/0321905377)
 * [Molecular Cell Biology by *Lodish*](http://www.amazon.com/Molecular-Cell-Biology-Harvey-Lodish/dp/0716723808)
 * [Gene Cloning and DNA Analysis: An Introduction](http://as.wiley.com/WileyCDA/WileyTitle/productCd-EHEP002314.html)
@@ -161,8 +169,11 @@ Bioinformatics
 * [Introduction to Protein-DNA Interactions by *Gary Stormo*](http://www.amazon.es/Introduction-Protein-DNA-Interactions-Thermodynamics-Bioinformatics/dp/1936113503?tag=duc0d-21)
 * [Theory of Basic Alignment Search Tool (BLAST)](http://etutorials.org/Misc/blast/)
 
-Protein Engineering
--------------------
+Structural Biology | Proteins
+-----------------------------
+
+* [Introduction to Protein Structure by *Branden* and *Tooze*](http://www.amazon.in/Introduction-Protein-Structure-Carl-Branden/dp/0815323050)
+* [Proteins: Structures and Molecular Properties by *Creighton*](http://www.amazon.com/Proteins-Structures-Properties-Thomas-Creighton/dp/071677030X)
 
 * Strandberg, Bror. - **50 Years of Protein Structure Analysis.** - 2009. -  Journal of Molecular Biology. - 0022-2836. ; 392:1, s. 2-32
   [dx.doi.org..](http://dx.doi.org/10.1016/j.jmb.2009.05.087)
