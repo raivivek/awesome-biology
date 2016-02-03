@@ -87,6 +87,11 @@ Biophysics
 * [Feynman Lectures On Computation by *Richard Feynman*](http://www.amazon.com/Feynman-Lectures-On-Computation-Richard/dp/0738202967)
 * [Physics in Molecular Biology by *Kim Sneppen*](http://ebooks.cambridge.org/ebook.jsf?bid=CBO9780511755699)
 
+Bioprocess Engineering
+----------------------
+
+* [Bioprocess Engineering Principles by *Pauline M. Doran*](http://www.amazon.com/Bioprocess-Engineering-Principles-Second-Edition/dp/012220851X)
+
 Evolution
 ---------
 
@@ -159,7 +164,7 @@ Systems Biology and Genetic Networks
 Bioinformatics
 --------------
 
-* [Curated list of papers for Computational Genomics](https://github.com/jtleek/genomicspapers)
+* **LIST**: [Curated list of papers for Computational Genomics](https://github.com/jtleek/genomicspapers)
 * [Practical Computing for Biologists by *Steven Haddock* and *Casey Dunn*](http://practicalcomputing.org/)
 * [An Introduction to Bioinformatics Algorithms by *Pavel Pevzner*](https://mitpress.mit.edu/books/introduction-bioinformatics-algorithms)
 * [Bioinformatics and Functional Genomics by *Jonathan Pevsner*](http://www.bioinfbook.org/php/?q=book3)
