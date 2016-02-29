@@ -23,6 +23,9 @@ All the resources need not be freely available for download.
 For Q&A type of resources that share excellent insight see
 [here](https://github.com/vivekiitkgp/awesome-biology/blob/master/quora.md).
 
+For a list of review research articles, see [awesome-reviews](awesome-reviews.md).
+
+
 Table of Contents
 =================
 
@@ -177,8 +180,10 @@ Bioinformatics
 Structural Biology | Proteins
 -----------------------------
 
+* [Algorithms in Structural Molecular Biology by *Bruce R. Donald*](https://mitpress.mit.edu/index.php?q=books/algorithms-structural-molecular-biology)
 * [Introduction to Protein Structure by *Branden* and *Tooze*](http://www.amazon.in/Introduction-Protein-Structure-Carl-Branden/dp/0815323050)
 * [Proteins: Structures and Molecular Properties by *Creighton*](http://www.amazon.com/Proteins-Structures-Properties-Thomas-Creighton/dp/071677030X)
+
 
 * Strandberg, Bror. - **50 Years of Protein Structure Analysis.** - 2009. -  Journal of Molecular Biology. - 0022-2836. ; 392:1, s. 2-32
   [dx.doi.org..](http://dx.doi.org/10.1016/j.jmb.2009.05.087)
