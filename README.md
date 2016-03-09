@@ -113,6 +113,11 @@ Molecular Biology
 * [Molecular Cell Biology by *Lodish*](http://www.amazon.com/Molecular-Cell-Biology-Harvey-Lodish/dp/0716723808)
 * [Gene Cloning and DNA Analysis: An Introduction](http://as.wiley.com/WileyCDA/WileyTitle/productCd-EHEP002314.html)
 
+Neuroscience
+------------
+
+* [Principles of Neural Science by *Kandel* and *Schwartz*](http://www.principlesofneuralscience.com)
+
 Physical Biology
 ----------------
 
