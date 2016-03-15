@@ -53,29 +53,29 @@ General Reading
 * [The Equation That Couldn't be Solved by *Mario Livio*](http://www.amazon.com/The-Equation-That-Couldnt-Solved/dp/0743258215)
 * [The Golden Ratio by *Mario Livio*](http://www.amazon.com/The-Golden-Ratio-Worlds-Astonishing/dp/0767908163)
 * [The Complexity Paradox by *Kenneth Mossman*](https://global.oup.com/academic/product/the-complexity-paradox-9780199330348?cc=in&lang=en&)
-* [Mathematical Ecology of populations and ecosystems by *John Pastor*]
-* [On Growth and Form by *D'Arcy Wentworth Thomsom*]
-* [Mathematical modeling in systems biology by *Brian Ingalls*]
-* [The Big Questions Evolution by *Francisco Ayala*]
-* [The Making of a Fly by *Peter Lawrence*]
-* [Molecular Machines in Biology by *Joachim Frank*]
-* [Cell Motility from Molecules to Organisms by *Ridley and Peckham*]
-* [Random Walks in Biology by *Howard Berg*]
-* [Elephants on Acids and Other Bizarre Experiments by *Alex Boese*]
-* [Sapiens: A Brief History of Humankind by *Yuval Noah Harari*]
-* [Life on Earth and The Living Planet by *David Attenborough*]
+* [On Growth and Form by *D'Arcy Wentworth Thomsom*](https://en.wikipedia.org/wiki/On_Growth_and_Form)
+* [The Big Questions: Evolution by *Francisco Ayala*](http://www.amazon.com/The-Big-Questions-Evolution-Qestions/dp/1780870337)
+* [The Making of a Fly by *Peter Lawrence*](http://www.amazon.co.uk/The-Making-Fly-Genetics-Animal/dp/0632030488/ref=sr_1_1?ie=UTF8&qid=1371646958&sr=8-1&keywords=The+Making+of+a+Fly)
+* [Molecular Machines in Biology by *Joachim Frank*](http://www.cambridge.org/us/academic/subjects/life-sciences/molecular-biology-biochemistry-and-structural-biology/molecular-machines-biology-workshop-cell?format=HB)
+* [Cell Motility from Molecules to Organisms by *Ridley and Peckham*](http://onlinelibrary.wiley.com/book/10.1002/0470011742)
+* [Random Walks in Biology by *Howard Berg*](http://press.princeton.edu/titles/112.html)
+* [Elephants on Acids and Other Bizarre Experiments by *Alex Boese*](http://www.amazon.com/Elephants-Acid-Bizarre-Experiments-Original/dp/0156031353)
+* [Sapiens: A Brief History of Humankind by *Yuval Noah Harari*](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)
 
+#### Videos
+
+* [Life on Earth and The Living Planet by *David Attenborough*](https://en.wikipedia.org/wiki/The_Living_Planet)
 
 Introductory
 ------------
 
+* [Ancestors in Our Genome by *Eugene E. Harris*](https://global.oup.com/academic/product/ancestors-in-our-genome-9780199978038)
 * [Campbell Biology](http://www.amazon.com/Campbell-Biology-Edition-Jane-Reece/dp/0321558235/ref=zg_bs_226688_5)
 * [Clinical Microbiology Made Ridiculously Simple](http://www.amazon.in/gp/product/094078081X)
+* [The Biology of Cancer by *Weinberg*](http://www.garlandscience.com/product/isbn/9780815342205)
 * [The Deeper Genome by *John Parrington*](http://ukcatalogue.oup.com/product/9780199688739.do)
-* [Ancestors in Our Genome by *Eugene E. Harris*](https://global.oup.com/academic/product/ancestors-in-our-genome-9780199978038)
 * [The Developing Genome: An Introduction to Behavioral Epigenetics by *Davis S. Moore*](https://global.oup.com/academic/product/the-developing-genome-9780199922345)
 * [The Systems View of Life: A Unifying Vision](http://www.amazon.com/Systems-View-Life-Unifying-Vision-ebook/dp/B00I0UNCES/ref=mt_kindle?_encoding=UTF8&me=)
-* [The Biology of Cancer by *Weinberg*](http://www.garlandscience.com/product/isbn/9780815342205)
 
 Biochemistry
 ------------
@@ -98,10 +98,11 @@ Bioprocess Engineering
 Evolution
 ---------
 
+* [Arrival of the Fittest: Solving Evolution's Greatest Puzzle by *Andreas Wagner*](http://www.amazon.com/Arrival-Fittest-Solving-Evolutions-Greatest/dp/1591846463)
+* [Robustness and Evolvability in Living Systems by *Andreas Wagner*](http://press.princeton.edu/titles/8002.html)
+* [Mathematical Ecology of Populations and Ecosystems by *John Pastor*](http://as.wiley.com/WileyCDA/WileyTitle/productCd-1405177950.html)
 * [The Origins of Evolutionary Innovations by *Andreas Wagner*](https://global.oup.com/academic/product/the-origins-of-evolutionary-innovations-9780199692606?cc=in&lang=en&) 
 * [The Growth of Biological Thought](https://en.wikipedia.org/wiki/The_Growth_of_Biological_Thought)
-* [Robustness and Evolvability in Living Systems by *Andreas Wagner*](http://press.princeton.edu/titles/8002.html)
-* [Arrival of the Fittest: Solving Evolution's Greatest Puzzle by *Andreas Wagner*](http://www.amazon.com/Arrival-Fittest-Solving-Evolutions-Greatest/dp/1591846463)
 
 
 Molecular Biology
@@ -121,8 +122,8 @@ Neuroscience
 Physical Biology
 ----------------
 
-* [Physical Biology of the Cell by *Phillips et al*](http://microsite.garlandscience.com/pboc2/)
 * [Cell Biology by The Numbers](http://book.bionumbers.org/) (**Online**)
+* [Physical Biology of the Cell by *Phillips et al*](http://microsite.garlandscience.com/pboc2/)
 
 Immunology
 ----------
@@ -162,12 +163,13 @@ Omics & Sequencing
 Systems Biology and Genetic Networks
 ------------------------------------
 
-* [**Life: An Introduction to Complex Systems Biology** by *Kunihiko Kaneko*](http://doi.org/10.1007/978-3-540-32667-0)
 * [An Introduction to Systems Biology by *Uri Alon*](http://www.amazon.com/Introduction-Systems-Biology-Mathematical-Computational/dp/1584886420)
 * [A Genetic Switch by *Mark Ptashne*](http://www.amazon.com/Genetic-Switch-Third-Edition-Revisited/dp/0879697164)
-* [Systems Biology: Properties of Reconstructed Networks by *B. Palsson*](http://gcrg.ucsd.edu/Publications/Books)
 * [Lectures from Systems Biology Course by *Uri Alon*](http://www.weizmann.ac.il/mcb/UriAlon/movies/Systems%20Biology%20Course%202014)
 * [Lectures from Systems Biology: COnstraint Based Reconstruction and Analysis by *B. Palsson*](http://gcrg.ucsd.edu/Publications/Books/SB1-2LectureSlides)
+* [**Life: An Introduction to Complex Systems Biology** by *Kunihiko Kaneko*](http://doi.org/10.1007/978-3-540-32667-0)
+* [Mathematical Modeling in Systems Biology by *Brian Ingalls*](https://mitpress.mit.edu/books/mathematical-modeling-systems-biology)
+* [Systems Biology: Properties of Reconstructed Networks by *B. Palsson*](http://gcrg.ucsd.edu/Publications/Books)
 
 Bioinformatics
 --------------
@@ -230,8 +232,22 @@ much more. (**Recommended**)
 
 Tools
 -----
-* [ResearchKit](https://github.com/ResearchKit/ResearchKit) - framework to create apps for medical research
-* [OMICS Tools](http://omictools.com/) - a huge collection of tools
+* [ResearchKit](https://github.com/ResearchKit/ResearchKit)
+  > Framework to create apps for medical research
+
+* [OMICS Tools](http://omictools.com/)
+  > A huge collection of tools
+
+* [bioconda-recipes](https://github.com/bioconda/bioconda-recipes)
+  > Conda recipes to install bioinformatics software
+
+* [PDBREMIX](https://github.com/boscoh/pdbremix)
+  > Library to analyze protein structures and protein simulations
+
+* [scikit-bio](http://scikit-bio.org)
+* [BioPython](http://biopython.org/wiki/Main_Page)
+  > Python libraries that implement a rich set of modules to handle wide class
+  > of biological computations.
 
 Journals
 --------
