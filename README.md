@@ -268,6 +268,7 @@ MOOCs
 * [Epigenetic Control of Gene Expression](https://www.coursera.org/course/epigenetics)
 * [Experimental Genome Science](https://www.coursera.org/course/genomescience)
 * [EMBL-EBI Online Training Courses](http://www.ebi.ac.uk/training/online/course-list)
+* [Fundamentals of Biology - OCW.MIT](http://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/)
 * [HarvardX's PH525-x Data Analysis Series](https://www.edx.org/course/data-analysis-life-sciences-1-statistics-harvardx-ph525-1x)
 * [Introduction to Systems Biology](https://www.coursera.org/course/sysbio)
 * [Introduction to Biomedical Imaging](https://www.edx.org/course/introduction-biomedical-imaging-uqx-bioimg101x-1)
@@ -277,3 +278,4 @@ MOOCs
 * [Principles of Synthetic Biology](https://www.edx.org/course/principles-synthetic-biology-mitx-20-305x)
 * [Principles of Biochemistry](https://www.edx.org/course/principles-biochemistry-harvardx-mcb63x)
 * [Proteins: Biology's Workforce](https://www.edx.org/course/proteins-biologys-workforce-ricex-bioc300-1x-0)
+* [videolectures.net - Biology](http://videolectures.net/Top/Biology/)
