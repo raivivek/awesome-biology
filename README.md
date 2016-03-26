@@ -108,7 +108,7 @@ Evolution
 Molecular Biology
 -----------------
 
-* **QUORA**: [What are the best papers in Molecular Biology?](https://www.quora.com/What-are-the-best-papers-in-molecular-biology)
+* **Quora**: [What are the best papers in Molecular Biology?](https://www.quora.com/What-are-the-best-papers-in-molecular-biology)
 * [Molecular Biology of the Cell by *Bruce Alberts*](http://www.garlandscience.com/product/isbn/0815341059)
 * [Molecular Biology of Gene by *Watson et al*](http://www.amazon.com/Molecular-Biology-Books-Carte-Edition/dp/0321905377)
 * [Molecular Cell Biology by *Lodish*](http://www.amazon.com/Molecular-Cell-Biology-Harvey-Lodish/dp/0716723808)
@@ -146,19 +146,19 @@ Omics & Sequencing
 ------------------
 * Waterston, R. H. (2002). **On the sequencing of the human genome**. Proceedings
   of the National Academy of Sciences, 99(6), 3712–3716.
-  [dx.doi.org..](http://dx.doi.org/10.1073/pnas.042692499)
+  [http://dx.doi.org/10.1073/pnas.042692499](http://dx.doi.org/10.1073/pnas.042692499)
 * Myers, E. W. (2002). **On the sequencing and assembly of the human genome.**
   Proceedings of the National Academy of Sciences, 99(7), 4145–4146.
-  [dx.doi.org..](http://dx.doi.org/10.1073/pnas.092136699)
+  [http://dx.doi.org/10.1073/pnas.092136699](http://dx.doi.org/10.1073/pnas.092136699)
 * Nik-Zainal, S., Alexandrov, L. B., Wedge, D. C., Van Loo, P., Greenman, C.
   D., Raine, K., Jones, D., et al. (2012). **Mutational Processes Molding the
   Genomes of 21 Breast Cancers.** Cell, 149(5), 979–993.
-  [dx.doi.org..](http://dx.doi.org/10.1016/j.cell.2012.04.024)
+  [http://dx.doi.org/10.1016/j.cell.2012.04.024](http://dx.doi.org/10.1016/j.cell.2012.04.024)
 * Thurman, R. E., Rynes, E., Humbert, R., Vierstra, J., Maurano, M. T., Haugen,
   E., Sheffield, N. C., et al. (2012). **The accessible chromatin landscape of
-  the human genome**. Nature, 489(7414), 75–82. [dx.doi.org..](http://dx.doi.org/10.1038/nature11232)
+  the human genome**. Nature, 489(7414), 75–82. [http://dx.doi.org/10.1038/nature11232](http://dx.doi.org/10.1038/nature11232)
 * Wang, Z., Gerstein, M. & Snyder, M. **RNA-Seq: a revolutionary tool for transcriptomics**. Nat. Rev. Genet. 10, 57–63 (2009).
-  [dx.doi.org..](http://dx.doi.org/10.1038/nrg2484)
+  [http://dx.doi.org/10.1038/nrg2484](http://dx.doi.org/10.1038/nrg2484)
 
 Systems Biology and Genetic Networks
 ------------------------------------
@@ -214,9 +214,9 @@ Blogs/Links
 ----------------
 
 * [What are some essential websites for biologists?](https://www.ocf.berkeley.edu/~asiegel/posts/?p=35)
-* [Talks at ICTS](https://www.youtube.com/user/ICTStalks/playlists), an
+* **Recommended**: [Talks at ICTS](https://www.youtube.com/user/ICTStalks/playlists), an
 interesting collection of talks on statistical physics, systems biology, and
-much more. (**Recommended**)
+much more. 
 * [Papers-per-week](http://github.io/vivekiitkpg/papers-per-week), an interesting collection of papers (with reviews!)
 * [Protein Love @ Quora](https://proteinlove.quora.com/)
 * [Bioscience club @ Quora](https://bioscienceclub.quora.com), discusses great biology related answers on Quora
