@@ -232,22 +232,12 @@ much more. (**Recommended**)
 
 Tools
 -----
-* [ResearchKit](https://github.com/ResearchKit/ResearchKit)
-  > Framework to create apps for medical research
-
-* [OMICS Tools](http://omictools.com/)
-  > A huge collection of tools
-
-* [bioconda-recipes](https://github.com/bioconda/bioconda-recipes)
-  > Conda recipes to install bioinformatics software
-
-* [PDBREMIX](https://github.com/boscoh/pdbremix)
-  > Library to analyze protein structures and protein simulations
-
+* [ResearchKit](https://github.com/ResearchKit/ResearchKit), Framework to create apps for medical research
+* [OMICS Tools](http://omictools.com/), A huge collection of tools
+* [bioconda-recipes](https://github.com/bioconda/bioconda-recipes), Conda recipes to install bioinformatics software
+* [PDBREMIX](https://github.com/boscoh/pdbremix), Library to analyze protein structures and protein simulations
 * [scikit-bio](http://scikit-bio.org)
-* [BioPython](http://biopython.org/wiki/Main_Page)
-  > Python libraries that implement a rich set of modules to handle wide class
-  > of biological computations.
+* [BioPython](http://biopython.org/wiki/Main_Page), Python libraries that implement a rich set of modules to handle wide class of biological computations.
 
 Journals
 --------
