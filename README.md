@@ -174,7 +174,7 @@ Systems Biology and Genetic Networks
 Bioinformatics
 --------------
 
-* **LIST**: [Curated list of papers for Computational Genomics](https://github.com/jtleek/genomicspapers)
+* **List**: [Curated list of papers for Computational Genomics](https://github.com/jtleek/genomicspapers)
 * [Practical Computing for Biologists by *Steven Haddock* and *Casey Dunn*](http://practicalcomputing.org/)
 * [An Introduction to Bioinformatics Algorithms by *Pavel Pevzner*](https://mitpress.mit.edu/books/introduction-bioinformatics-algorithms)
 * [Bioinformatics and Functional Genomics by *Jonathan Pevsner*](http://www.bioinfbook.org/php/?q=book3)
@@ -191,14 +191,6 @@ Structural Biology | Proteins
 * [Introduction to Protein Structure by *Branden* and *Tooze*](http://www.amazon.in/Introduction-Protein-Structure-Carl-Branden/dp/0815323050)
 * [Proteins: Structures and Molecular Properties by *Creighton*](http://www.amazon.com/Proteins-Structures-Properties-Thomas-Creighton/dp/071677030X)
 
-
-* Strandberg, Bror. - **50 Years of Protein Structure Analysis.** - 2009. -  Journal of Molecular Biology. - 0022-2836. ; 392:1, s. 2-32
-  [dx.doi.org..](http://dx.doi.org/10.1016/j.jmb.2009.05.087)
-* Janes S. Richardson, David C. Richardson, **The *de novo* design of protein structures**, Trends in Biochemical Sciences, Volume 14, Issue 7, July 1989, Pages 304-309, ISSN 0968-0004,
-  [dx.doi.org..](http://dx.doi.org/10.1016/0968-0004(89)90070-4)
-* Strandberg, B. **Chapter 1: Building the Ground for the First Two Protein Structures: Myoglobin and Haemoglobin.** J. Mol. Biol. 392, 2–10 (2009).
-  [dx.doi.org..](http://dx.doi.org/10.1016/j.jmb.2009.05.087)
-
 Statistics | Data munging
 -------------------------
 
@@ -214,7 +206,7 @@ Blogs/Links
 ----------------
 
 * [What are some essential websites for biologists?](https://www.ocf.berkeley.edu/~asiegel/posts/?p=35)
-* **Recommended**: [Talks at ICTS](https://www.youtube.com/user/ICTStalks/playlists), an
+* [**Talks at ICTS**](https://www.youtube.com/user/ICTStalks/playlists), an
 interesting collection of talks on statistical physics, systems biology, and
 much more. 
 * [Papers-per-week](http://github.io/vivekiitkpg/papers-per-week), an interesting collection of papers (with reviews!)
@@ -236,7 +228,7 @@ Tools
 * [OMICS Tools](http://omictools.com/), A huge collection of tools
 * [bioconda-recipes](https://github.com/bioconda/bioconda-recipes), Conda recipes to install bioinformatics software
 * [PDBREMIX](https://github.com/boscoh/pdbremix), Library to analyze protein structures and protein simulations
-* [scikit-bio](http://scikit-bio.org)
+* [scikit-bio](http://scikit-bio.org), in development Python library for bioinformatics
 * [BioPython](http://biopython.org/wiki/Main_Page), Python libraries that implement a rich set of modules to handle wide class of biological computations.
 
 Journals
