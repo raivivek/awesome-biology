@@ -65,6 +65,7 @@ General Reading
 #### Videos
 
 * [Life on Earth and The Living Planet by *David Attenborough*](https://en.wikipedia.org/wiki/The_Living_Planet)
+* [The Secret Life of The Brain by *PBS*](https://www.youtube.com/watch?v=q7PUyR4mcNI&list=PLcVG5UVQS25l-IKQIj3wCeTnNLsl8gQRz)
 
 Introductory
 ------------
@@ -118,6 +119,7 @@ Neuroscience
 ------------
 
 * [Principles of Neural Science by *Kandel* and *Schwartz*](http://www.principlesofneuralscience.com)
+* [Theoretical Neuroscience by *Dayan* and *Abbott*](https://mitpress.mit.edu/books/theoretical-neuroscience)
 
 Physical Biology
 ----------------
