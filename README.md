@@ -166,6 +166,7 @@ Systems Biology and Genetic Networks
 ------------------------------------
 
 * [An Introduction to Systems Biology by *Uri Alon*](http://www.amazon.com/Introduction-Systems-Biology-Mathematical-Computational/dp/1584886420)
+* [A First Course in Systems Biology by *E. Voit*](http://www.garlandscience.com/product/isbn/9780815344674)
 * [A Genetic Switch by *Mark Ptashne*](http://www.amazon.com/Genetic-Switch-Third-Edition-Revisited/dp/0879697164)
 * [Lectures from Systems Biology Course by *Uri Alon*](http://www.weizmann.ac.il/mcb/UriAlon/movies/Systems%20Biology%20Course%202014)
 * [Lectures from Systems Biology: COnstraint Based Reconstruction and Analysis by *B. Palsson*](http://gcrg.ucsd.edu/Publications/Books/SB1-2LectureSlides)
