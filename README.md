@@ -48,6 +48,7 @@ General Reading
 * [Power, Sex and Suicide: Mitochondria and the Meaning of Life by *Nick
     Lane*](https://en.wikipedia.org/wiki/Power,_Sex,_Suicide)
 * [Emperor of all Maladies by *Siddhartha Mukherjee*](http://www.amazon.com/Emperor-All-Maladies-Biography-Cancer/dp/1439170916/ref=sr_1_1?s=books&ie=UTF8&qid=1451746489&sr=1-1&keywords=emperor+of+all+maladies)
+* [The Gene by *Siddhartha Mukherjee*](https://www.goodreads.com/book/show/27276428-the-gene)
 * [The Eighth Day of Creation by *H. F. Judson*](http://www.cshlpress.com/default.tpl?cart=14538074292706651&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=294)
 * [The Human Zoo by *Desmond Morris*](https://en.wikipedia.org/wiki/The_Human_Zoo_%28book%29)
 * [The Equation That Couldn't be Solved by *Mario Livio*](http://www.amazon.com/The-Equation-That-Couldnt-Solved/dp/0743258215)
@@ -100,6 +101,7 @@ Evolution
 ---------
 
 * [Arrival of the Fittest: Solving Evolution's Greatest Puzzle by *Andreas Wagner*](http://www.amazon.com/Arrival-Fittest-Solving-Evolutions-Greatest/dp/1591846463)
+* [Fundamentals of Molecular Evolution by *Dan Graur*](http://www.sinauer.com/fundamentals-of-molecular-evolution.html)
 * [Robustness and Evolvability in Living Systems by *Andreas Wagner*](http://press.princeton.edu/titles/8002.html)
 * [Mathematical Ecology of Populations and Ecosystems by *John Pastor*](http://as.wiley.com/WileyCDA/WileyTitle/productCd-1405177950.html)
 * [The Origins of Evolutionary Innovations by *Andreas Wagner*](https://global.oup.com/academic/product/the-origins-of-evolutionary-innovations-9780199692606?cc=in&lang=en&) 
