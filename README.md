@@ -54,6 +54,7 @@ General Reading
 * [The Equation That Couldn't be Solved by *Mario Livio*](http://www.amazon.com/The-Equation-That-Couldnt-Solved/dp/0743258215)
 * [The Golden Ratio by *Mario Livio*](http://www.amazon.com/The-Golden-Ratio-Worlds-Astonishing/dp/0767908163)
 * [The Complexity Paradox by *Kenneth Mossman*](https://global.oup.com/academic/product/the-complexity-paradox-9780199330348?cc=in&lang=en&)
+* [The Vital Question by *Nick Lane*](https://www.theguardian.com/books/2015/apr/22/the-vital-question-nick-lane-review-secret-life)
 * [On Growth and Form by *D'Arcy Wentworth Thomsom*](https://en.wikipedia.org/wiki/On_Growth_and_Form)
 * [The Big Questions: Evolution by *Francisco Ayala*](http://www.amazon.com/The-Big-Questions-Evolution-Qestions/dp/1780870337)
 * [The Making of a Fly by *Peter Lawrence*](http://www.amazon.co.uk/The-Making-Fly-Genetics-Animal/dp/0632030488/ref=sr_1_1?ie=UTF8&qid=1371646958&sr=8-1&keywords=The+Making+of+a+Fly)
