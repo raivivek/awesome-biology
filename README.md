@@ -216,7 +216,7 @@ Blogs/Links
 * [**Talks at ICTS**](https://www.youtube.com/user/ICTStalks/playlists), an
 interesting collection of talks on statistical physics, systems biology, and
 much more. 
-* [Papers-per-week](http://github.io/vivekiitkpg/papers-per-week), an interesting collection of papers (with reviews!)
+* [Papers-per-week](https://github.com/vivekiitkgp/papers-per-week), an interesting collection of papers (with reviews!)
 * [Protein Love @ Quora](https://proteinlove.quora.com/)
 * [Bioscience club @ Quora](https://bioscienceclub.quora.com), discusses great biology related answers on Quora
 * [it is NOT junk](http://www.michaeleisen.org/blog/), a blog about genomes, DNA, evolution, open science.. (by [Michael Eisen](http://www.michaeleisen.org/blog/?page_id=581))
