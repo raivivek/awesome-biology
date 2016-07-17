@@ -150,6 +150,7 @@ Genetics
 
 Omics & Sequencing
 ------------------
+
 * Waterston, R. H. (2002). **On the sequencing of the human genome**. Proceedings
   of the National Academy of Sciences, 99(6), 3712–3716.
   [http://dx.doi.org/10.1073/pnas.042692499](http://dx.doi.org/10.1073/pnas.042692499)
@@ -231,12 +232,14 @@ much more.
 
 Tools
 -----
+
 * [ResearchKit](https://github.com/ResearchKit/ResearchKit), Framework to create apps for medical research
 * [OMICS Tools](http://omictools.com/), A huge collection of tools
 * [bioconda-recipes](https://github.com/bioconda/bioconda-recipes), Conda recipes to install bioinformatics software
 * [PDBREMIX](https://github.com/boscoh/pdbremix), Library to analyze protein structures and protein simulations
 * [scikit-bio](http://scikit-bio.org), in development Python library for bioinformatics
 * [BioPython](http://biopython.org/wiki/Main_Page), Python libraries that implement a rich set of modules to handle wide class of biological computations.
+* [SciFeeds](https://scifeeds.com/) - Aggregates science mentioned in articles, social media, and news media to help identify important scientific advances.
 
 Journals
 --------
