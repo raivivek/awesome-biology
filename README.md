@@ -183,6 +183,7 @@ Bioinformatics
 --------------
 
 * **List**: [Curated list of papers for Computational Genomics](https://github.com/jtleek/genomicspapers)
+* **List**: [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 * [Practical Computing for Biologists by *Steven Haddock* and *Casey Dunn*](http://practicalcomputing.org/)
 * [An Introduction to Bioinformatics Algorithms by *Pavel Pevzner*](https://mitpress.mit.edu/books/introduction-bioinformatics-algorithms)
 * [Bioinformatics and Functional Genomics by *Jonathan Pevsner*](http://www.bioinfbook.org/php/?q=book3)
