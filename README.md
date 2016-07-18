@@ -239,8 +239,8 @@ Tools
 * [bioconda-recipes](https://github.com/bioconda/bioconda-recipes), Conda recipes to install bioinformatics software
 * [PDBREMIX](https://github.com/boscoh/pdbremix), Library to analyze protein structures and protein simulations
 * [scikit-bio](http://scikit-bio.org), in development Python library for bioinformatics
-* [BioPython](http://biopython.org/wiki/Main_Page), Python libraries that implement a rich set of modules to handle wide class of biological computations.
-* [SciFeeds](https://scifeeds.com/) - Aggregates science mentioned in articles, social media, and news media to help identify important scientific advances.
+* [BioPython](http://biopython.org/wiki/Main_Page), Python libraries that implement a rich set of modules to handle wide class of biological computations
+* [SciFeeds](https://scifeeds.com/), Aggregates science mentioned in articles, social media, and news media to help identify important scientific advances
 
 Journals
 --------
