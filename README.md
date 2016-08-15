@@ -104,7 +104,7 @@ Evolution
 * [Arrival of the Fittest: Solving Evolution's Greatest Puzzle by *Andreas Wagner*](http://www.amazon.com/Arrival-Fittest-Solving-Evolutions-Greatest/dp/1591846463)
 * [Fundamentals of Molecular Evolution by *Dan Graur*](http://www.sinauer.com/fundamentals-of-molecular-evolution.html)
 * [Human Evolutionary Genetics by *Jobling* et al](http://www.garlandscience.com/product/isbn/9780815341482)
-* [Life Ascending: The Ten Great Inventions of Evolution by *Nick Lane*[](https://www.goodreads.com/book/show/6429264-life-ascending)
+* [Life Ascending: The Ten Great Inventions of Evolution by *Nick Lane*](https://www.goodreads.com/book/show/6429264-life-ascending)
 * [Robustness and Evolvability in Living Systems by *Andreas Wagner*](http://press.princeton.edu/titles/8002.html)
 * [Mathematical Ecology of Populations and Ecosystems by *John Pastor*](http://as.wiley.com/WileyCDA/WileyTitle/productCd-1405177950.html)
 * [The Origins of Evolutionary Innovations by *Andreas Wagner*](https://global.oup.com/academic/product/the-origins-of-evolutionary-innovations-9780199692606?cc=in&lang=en&) 
