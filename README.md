@@ -29,6 +29,30 @@ For a list of review research articles, see [awesome-reviews](awesome-reviews.md
 Table of Contents
 =================
 
+* [General Reading](#general-reading)
+  - [Videos](#videos)
+* [Introductory](#introductory)
+* [Biochemistry](#biochemistry)
+* [Biophysics](#biophysics)
+* [Bioprocess Engineering](#bioprocess-engineering)
+* [Evolution](#evolution)
+* [Molecular Biology](#molecular-biology)
+* [Neuroscience](#neuroscience)
+* [Physical Biology](#physical-biology)
+* [Immunology](#immunology)
+* [Genetics](#genetics)
+* [Omics & Sequencing](#omics---sequencing)
+* [Systems Biology and Genetic Networks](#systems-biology-and-genetic-networks)
+* [Bioinformatics](#bioinformatics)
+* [Structural Biology | Proteins](#structural-biology---proteins)
+* [Statistics | Data munging](#statistics---data-munging)
+* [Laboratory Manuals](#laboratory-manuals)
+* [Blogs/Links](#blogs-links)
+* [Tools](#tools)
+* [Journals](#journals)
+* [MOOCs](#moocs)
+* [Competitions](#competitions)
+
 General Reading
 ---------------
 
@@ -273,3 +297,10 @@ MOOCs
 * [Principles of Biochemistry](https://www.edx.org/course/principles-biochemistry-harvardx-mcb63x)
 * [Proteins: Biology's Workforce](https://www.edx.org/course/proteins-biologys-workforce-ricex-bioc300-1x-0)
 * [videolectures.net - Biology](http://videolectures.net/Top/Biology/)
+
+Competitions
+------------
+
+* [International Genetically Engineered Machines (iGEM)](http://igem.org/Main_Page)
+* [DREAM Challenges](http://dreamchallenges.org/)
+* [ISCB Wikipedia Competition](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computational_Biology/ISCB_competition_announcement_2016)
