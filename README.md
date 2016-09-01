@@ -256,6 +256,13 @@ much more.
 * [Biostars Tutorials](https://www.biostars.org/t/Tutorials/)
 * [Rosalind](http://rosalind.info)
 
+Podcasts
+--------
+
+* [This Week in Microbiology by *Vincent Racaniello*](http://www.microbeworld.org/podcasts/this-week-in-microbiology)
+* [Nature Podcasts](http://www.nature.com/nature/podcast/)
+* [Evolution Talk Podcast](http://evolutiontalk.com/)
+
 Tools
 -----
 
