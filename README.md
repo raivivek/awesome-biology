@@ -312,3 +312,4 @@ Competitions
 * [DREAM Challenges](http://dreamchallenges.org/)
 * [ISCB Wikipedia Competition](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computational_Biology/ISCB_competition_announcement_2016)
 * [Open Science Prize](https://www.openscienceprize.org)
+* [sbv IMPROVER Challenges](https://sbvimprover.com/)
