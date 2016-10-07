@@ -229,6 +229,7 @@ Statistics | Data munging
 -------------------------
 
 * [Nature's Statistics for Biologists collection](http://www.nature.com/collections/qghhqm)
+* [The Analysis of Biological Data by *Whitlock* and *Schluter*](https://www.amazon.com/Analysis-Biological-Data-Michael-Whitlock/dp/1936221489)
 
 Laboratory Manuals
 ------------------
@@ -273,6 +274,7 @@ Tools
 * [scikit-bio](http://scikit-bio.org), in development Python library for bioinformatics
 * [BioPython](http://biopython.org/wiki/Main_Page), Python libraries that implement a rich set of modules to handle wide class of biological computations
 * [SciFeeds](https://scifeeds.com/), Aggregates science mentioned in articles, social media, and news media to help identify important scientific advances
+* [Linuxbrew](http://linuxbrew.sh/), port of Homebrew, a Mac OS package manager, for Linux
 
 Journals
 --------
