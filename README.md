@@ -216,6 +216,7 @@ Bioinformatics
 * [Bioinformatics: The Machine Learning Approach by *Pierre Baldi*](http://books.google.com/books?id=pxSM7R1sdeQC&dq=Pierre+baldi+%2B+bioinformatics&printsec=frontcover&source=bn&hl=en&ei=IoGRS6uCIJT-NYLA8Z0N&sa=X&oi=book_result&ct=result&resnum=4&ved=0CBUQ6AEwAw#v=onepage&q=&f=false)
 * [Statistical Methods in Bioinformatics: An Introduction by *Ewens*](https://www.springer.com/in/book/9780387400822)
 * [Introduction to Protein-DNA Interactions by *Gary Stormo*](http://www.amazon.es/Introduction-Protein-DNA-Interactions-Thermodynamics-Bioinformatics/dp/1936113503?tag=duc0d-21)
+* [Introduction to Genomics by *Arthur M. Lesk*](http://global.oup.com/uk/orc/biosciences/evolution/leskgenomics2e/)
 * [Theory of Basic Alignment Search Tool (BLAST)](http://etutorials.org/Misc/blast/)
 
 Structural Biology | Proteins
