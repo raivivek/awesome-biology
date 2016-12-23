@@ -125,6 +125,7 @@ Evolution
 * [Life Ascending: The Ten Great Inventions of Evolution by *Nick Lane*](https://www.goodreads.com/book/show/6429264-life-ascending)
 * [Robustness and Evolvability in Living Systems by *Andreas Wagner*](http://press.princeton.edu/titles/8002.html)
 * [Mathematical Ecology of Populations and Ecosystems by *John Pastor*](http://as.wiley.com/WileyCDA/WileyTitle/productCd-1405177950.html)
+* [Man and His Future, A Ciba Foundation Volume by *Wolstenholme, G. E. W.*](https://archive.org/details/manhisfutureciba00wols) 
 * [The Origins of Evolutionary Innovations by *Andreas Wagner*](https://global.oup.com/academic/product/the-origins-of-evolutionary-innovations-9780199692606?cc=in&lang=en&) 
 * [The Growth of Biological Thought](https://en.wikipedia.org/wiki/The_Growth_of_Biological_Thought)
 
@@ -194,7 +195,7 @@ Systems Biology and Genetic Networks
 * [A Genetic Switch by *Mark Ptashne*](http://www.amazon.com/Genetic-Switch-Third-Edition-Revisited/dp/0879697164)
 * [Lectures from Systems Biology Course by *Uri Alon*](http://www.weizmann.ac.il/mcb/UriAlon/movies/Systems%20Biology%20Course%202014)
 * [Lectures from Systems Biology: Constraint-based Reconstruction and Analysis by *B. Palsson*](http://gcrg.ucsd.edu/Publications/Books/SB1-2LectureSlides)
-* [**Life: An Introduction to Complex Systems Biology** by *Kunihiko Kaneko*](http://doi.org/10.1007/978-3-540-32667-0)
+* [Life: An Introduction to Complex Systems Biology by *Kunihiko Kaneko*](http://doi.org/10.1007/978-3-540-32667-0)
 * [Mathematical Modeling in Systems Biology by *Brian Ingalls*](https://mitpress.mit.edu/books/mathematical-modeling-systems-biology)
 * [Systems Biology: Properties of Reconstructed Networks by *B. Palsson*](http://gcrg.ucsd.edu/Publications/Books)
 
