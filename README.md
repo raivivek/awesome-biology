@@ -120,6 +120,7 @@ Evolution
 ---------
 
 * [Arrival of the Fittest: Solving Evolution's Greatest Puzzle by *Andreas Wagner*](http://www.amazon.com/Arrival-Fittest-Solving-Evolutions-Greatest/dp/1591846463)
+* [Computational Molecular Evolution by *Ziheng Yang*](http://abacus.gene.ucl.ac.uk/CME/)
 * [Fundamentals of Molecular Evolution by *Dan Graur*](http://www.sinauer.com/fundamentals-of-molecular-evolution.html)
 * [Human Evolutionary Genetics by *Jobling* et al](http://www.garlandscience.com/product/isbn/9780815341482)
 * [Life Ascending: The Ten Great Inventions of Evolution by *Nick Lane*](https://www.goodreads.com/book/show/6429264-life-ascending)
@@ -276,6 +277,7 @@ Tools
 Journals
 --------
 
+* [Top Publications (Life Sciences) - Google Scholar](https://scholar.google.co.in/citations?view_op=top_venues&hl=en&vq=bio)
 * [Annual Reviews](http://www.annualreviews.org/)
 * [Cell Press](http://cell.com)
 * [Current Opinion](http://www.current-opinion.com/default.aspx)
