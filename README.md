@@ -126,7 +126,7 @@ Evolution
 * [Robustness and Evolvability in Living Systems by *Andreas Wagner*](http://press.princeton.edu/titles/8002.html)
 * [Mathematical Ecology of Populations and Ecosystems by *John Pastor*](http://as.wiley.com/WileyCDA/WileyTitle/productCd-1405177950.html)
 * [Man and His Future, A Ciba Foundation Volume by *Wolstenholme, G. E. W.*](https://archive.org/details/manhisfutureciba00wols) 
-* [The Origins of Evolutionary Innovations by *Andreas Wagner*](https://global.oup.com/academic/product/the-origins-of-evolutionary-innovations-9780199692606?cc=in&lang=en&) 
+* [The Origins of Evolutionary Innovations by *Andreas Wagner*](https://global.oup.com/academic/product/the-origins-of-evolutionary-innovations-9780199692606?cc=in&lang=en&)
 * [The Growth of Biological Thought](https://en.wikipedia.org/wiki/The_Growth_of_Biological_Thought)
 
 
@@ -239,7 +239,7 @@ Blogs/Links
 * [What are some essential websites for biologists?](https://www.ocf.berkeley.edu/~asiegel/posts/?p=35)
 * [**Talks at ICTS**](https://www.youtube.com/user/ICTStalks/playlists), an
 interesting collection of talks on statistical physics, systems biology, and
-much more. 
+much more.
 * [Papers-per-week](https://github.com/vivekiitkgp/papers-per-week), an interesting collection of papers (with reviews!)
 * [Protein Love @ Quora](https://proteinlove.quora.com/)
 * [Bioscience club @ Quora](https://bioscienceclub.quora.com), discusses great biology related answers on Quora
@@ -259,6 +259,7 @@ Podcasts
 * [This Week in Microbiology by *Vincent Racaniello*](http://www.microbeworld.org/podcasts/this-week-in-microbiology)
 * [Nature Podcasts](http://www.nature.com/nature/podcast/)
 * [Evolution Talk Podcast](http://evolutiontalk.com/)
+* [The Naked Scientists' Podcasts](https://www.thenakedscientists.com/science-podcasts), with four biology related podcasts, The Naked Scientists, eLife, Naked Genetics, and Naked Neuroscience
 
 Tools
 -----
