@@ -169,9 +169,10 @@ Genetics
   > followed. The part on recombinant DNA is particularly good. - C A Smith (*Biochemical Education, Volume 19, Issue 4*)
 
 * [Concepts of Genetics by *Klug*](http://www.amazon.com/Concepts-Genetics-William-S-Klug/dp/0321795776)
+* [Principles of Population Genetics by *Hartl* and *Clark*](http://www.sinauer.com/principles-of-population-genetics.html)
 
-Omics & Sequencing
-------------------
+Omics
+-----
 
 * Waterston, R. H. (2002). **On the sequencing of the human genome**. Proceedings
   of the National Academy of Sciences, 99(6), 3712–3716.
@@ -224,11 +225,12 @@ Structural Biology | Proteins
 * [Introduction to Protein Structure by *Branden* and *Tooze*](http://www.amazon.in/Introduction-Protein-Structure-Carl-Branden/dp/0815323050)
 * [Proteins: Structures and Molecular Properties by *Creighton*](http://www.amazon.com/Proteins-Structures-Properties-Thomas-Creighton/dp/071677030X)
 
-Statistics | Data munging
--------------------------
+Data Analysis | Programming
+---------------------------
 
 * [Nature's Statistics for Biologists collection](http://www.nature.com/collections/qghhqm)
 * [The Analysis of Biological Data by *Whitlock* and *Schluter*](https://www.amazon.com/Analysis-Biological-Data-Michael-Whitlock/dp/1936221489)
+* [Practical Computing for Biologists by *Haddock* and *Dunn*](practicalcomputing.org/)
 
 Laboratory Manuals
 ------------------
