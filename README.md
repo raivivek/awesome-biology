@@ -81,6 +81,7 @@ General Reading
 * [Random Walks in Biology by *Howard Berg*](http://press.princeton.edu/titles/112.html)
 * [Elephants on Acids and Other Bizarre Experiments by *Alex Boese*](http://www.amazon.com/Elephants-Acid-Bizarre-Experiments-Original/dp/0156031353)
 * [Sapiens: A Brief History of Humankind by *Yuval Noah Harari*](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)
+* [Evolving Ourselves: Redesigning the Future of Humanity--One Gene at a Time](https://www.amazon.com/Evolving-Ourselves-Redesigning-Future-Humanity-One/dp/0143108344/ref=sr_1_1?ie=UTF8&qid=1486032552&sr=8-1&keywords=evolving+ourselves+redesigning+the+future+of+humanity)
 
 #### Videos
 
