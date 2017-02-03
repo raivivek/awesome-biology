@@ -218,6 +218,7 @@ Bioinformatics
 * [Introduction to Protein-DNA Interactions by *Gary Stormo*](http://www.amazon.es/Introduction-Protein-DNA-Interactions-Thermodynamics-Bioinformatics/dp/1936113503?tag=duc0d-21)
 * [Introduction to Genomics by *Arthur M. Lesk*](http://global.oup.com/uk/orc/biosciences/evolution/leskgenomics2e/)
 * [Theory of Basic Alignment Search Tool (BLAST)](http://etutorials.org/Misc/blast/)
+* [Translational Bioinformatics by *PLOS Collections*](http://collections.plos.org/translational-bioinformatics)
 
 Structural Biology | Proteins
 -----------------------------
@@ -232,6 +233,7 @@ Data Analysis | Programming
 * [Nature's Statistics for Biologists collection](http://www.nature.com/collections/qghhqm)
 * [The Analysis of Biological Data by *Whitlock* and *Schluter*](https://www.amazon.com/Analysis-Biological-Data-Michael-Whitlock/dp/1936221489)
 * [Practical Computing for Biologists by *Haddock* and *Dunn*](practicalcomputing.org/)
+* [Advanced Python for Biologists by *Dr Martin O Jones*](https://www.amazon.com/Advanced-Python-Biologists-Martin-Jones/dp/1495244377/ref=zg_bs_760204_17)
 
 Laboratory Manuals
 ------------------
