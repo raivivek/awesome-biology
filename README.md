@@ -81,7 +81,9 @@ General Reading
 * [Random Walks in Biology by *Howard Berg*](http://press.princeton.edu/titles/112.html)
 * [Elephants on Acids and Other Bizarre Experiments by *Alex Boese*](http://www.amazon.com/Elephants-Acid-Bizarre-Experiments-Original/dp/0156031353)
 * [Sapiens: A Brief History of Humankind by *Yuval Noah Harari*](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)
-* [Evolving Ourselves: Redesigning the Future of Humanity--One Gene at a Time](https://www.amazon.com/Evolving-Ourselves-Redesigning-Future-Humanity-One/dp/0143108344/ref=sr_1_1?ie=UTF8&qid=1486032552&sr=8-1&keywords=evolving+ourselves+redesigning+the+future+of+humanity)
+* [Evolving Ourselves: Redesigning the Future of Humanity--One Gene at a Time](https://www.amazon.com/Evolving-Ourselves-Redesigning-Future-Humanity-One/dp/0143108344/ref=sr_1_1?ie=UTF8&qid=1486032552&sr=8-1)
+* [The Botany of Desire by *Michael Pollan*](https://en.wikipedia.org/wiki/The_Botany_of_Desire) 
+* [Silent Spring by *Rachel Carlson*](https://en.wikipedia.org/wiki/Silent_Spring)
 
 #### Videos
 
@@ -92,6 +94,7 @@ Introductory
 ------------
 
 * [Ancestors in Our Genome by *Eugene E. Harris*](https://global.oup.com/academic/product/ancestors-in-our-genome-9780199978038)
+* [A Cartoon Guide to Genetics by *Gonick* and *Wheelis*](https://archive.org/details/The_Cartoon_Guide_To_Genetics_Larry_Gonick)
 * [Campbell Biology](http://www.amazon.com/Campbell-Biology-Edition-Jane-Reece/dp/0321558235/ref=zg_bs_226688_5)
 * [Clinical Microbiology Made Ridiculously Simple](http://www.amazon.in/gp/product/094078081X)
 * [The Biology of Cancer by *Weinberg*](http://www.garlandscience.com/product/isbn/9780815342205)
@@ -230,6 +233,7 @@ Structural Biology | Proteins
 Data Analysis | Programming
 ---------------------------
 
+* [The Cartoon Guide to Statistics by *Gonick*](http://www.larrygonick.com/titles/science/the-cartoon-guide-to-statistics/)
 * [Nature's Statistics for Biologists collection](http://www.nature.com/collections/qghhqm)
 * [The Analysis of Biological Data by *Whitlock* and *Schluter*](https://www.amazon.com/Analysis-Biological-Data-Michael-Whitlock/dp/1936221489)
 * [Practical Computing for Biologists by *Haddock* and *Dunn*](practicalcomputing.org/)
