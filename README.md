@@ -248,7 +248,7 @@ Laboratory Manuals
 Blogs/Links
 ----------------
 
-* [What are some essential websites for biologists?](https://www.ocf.berkeley.edu/~asiegel/posts/?p=35)
+* [What are some essential websites for biologists?](https://www.quora.com/What-are-some-essential-websites-for-biologists/answer/Alex-Siegel?srid=Tds3)
 * [**Talks at ICTS**](https://www.youtube.com/user/ICTStalks/playlists), an
 interesting collection of talks on statistical physics, systems biology, and
 much more.
