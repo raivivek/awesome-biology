@@ -84,6 +84,7 @@ General Reading
 * [Evolving Ourselves: Redesigning the Future of Humanity--One Gene at a Time](https://www.amazon.com/Evolving-Ourselves-Redesigning-Future-Humanity-One/dp/0143108344/ref=sr_1_1?ie=UTF8&qid=1486032552&sr=8-1)
 * [The Botany of Desire by *Michael Pollan*](https://en.wikipedia.org/wiki/The_Botany_of_Desire) 
 * [Silent Spring by *Rachel Carlson*](https://en.wikipedia.org/wiki/Silent_Spring)
+* [Soft Matter: the stuff that dreams are made of by *Roberto Piazza*](https://www.springer.com/in/book/9789400705845)
 
 #### Videos
 
@@ -102,6 +103,9 @@ Introductory
 * [The Developing Genome: An Introduction to Behavioral Epigenetics by *Davis S. Moore*](https://global.oup.com/academic/product/the-developing-genome-9780199922345)
 * [The Systems View of Life: A Unifying Vision](http://www.amazon.com/Systems-View-Life-Unifying-Vision-ebook/dp/B00I0UNCES/ref=mt_kindle?_encoding=UTF8&me=)
 * [Scitable by *Nature Education*](http://www.nature.com/scitable)
+* [The Many Phases of the Matter by *Ganeshan Venkataraman*](https://www.goodreads.com/book/show/2205012.The_Many_Phases_Of_Matter)
+* [The Shaping of Life by *Lionel G. Harrison*](https://www.cambridge.org/core/books/the-shaping-of-life/CC2A60300A688A6BE31BE73DBF420A95)
+* [The Machinery of Life by *David Goodsell*](https://archive.org/details/The_Machinery_of_Life_by_David_S._Goodsell)
 
 Biochemistry
 ------------
@@ -115,6 +119,7 @@ Biophysics
 
 * [Feynman Lectures On Computation by *Richard Feynman*](http://www.amazon.com/Feynman-Lectures-On-Computation-Richard/dp/0738202967)
 * [Physics in Molecular Biology by *Kim Sneppen*](http://ebooks.cambridge.org/ebook.jsf?bid=CBO9780511755699)
+* [Physics of Living Systems by *Fabrizio Cleri*](https://www.springer.com/in/book/9783319306452)
 
 Bioprocess Engineering
 ----------------------
