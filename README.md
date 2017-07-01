@@ -159,7 +159,7 @@ Neuroscience
 Physical Biology
 ----------------
 
-* **List**: [Pedagogical/review papers on Physical Biology (60+ papers)](https://home.icts.res.in/~vijay/papers-phys_living_matter.html) [archive](https://web.archive.org/web/20170701120059/https://home.icts.res.in/~vijay/papers-phys_living_matter.html)
+* **List**: [Pedagogical/review papers on Physical Biology (60+ papers)](https://home.icts.res.in/~vijay/papers-phys_living_matter.html) [(course)](https://home.icts.res.in/~vijay/phys_living_matter.html) [(archive)](https://web.archive.org/web/20170701120059/https://home.icts.res.in/~vijay/papers-phys_living_matter.html)
 * [Cell Biology by The Numbers](http://book.bionumbers.org/) (**Online**)
 * [Physical Biology of the Cell by *Phillips et al*](http://microsite.garlandscience.com/pboc2/)
 
