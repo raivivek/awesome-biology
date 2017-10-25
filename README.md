@@ -105,13 +105,13 @@ Introductory
 * [Scitable by *Nature Education*](https://idp.nature.com/authorize?response_type=cookie&client_id=grover&redirect_uri=http%3A%2F%2Fwww.nature.com%2Fscitable)
 * [The Many Phases of the Matter by *Ganeshan Venkataraman*](https://www.goodreads.com/book/show/2205012.The_Many_Phases_Of_Matter)
 * [The Shaping of Life by *Lionel G. Harrison*](https://www.cambridge.org/core/books/the-shaping-of-life/CC2A60300A688A6BE31BE73DBF420A95)
-* [The Machinery of Life by *David Goodsell*](https://archive.org/details/The_Machinery_of_Life_by_David_S._Goodsell)
+* [The Machinery of Life by *David Goodsell*](http://mgl.scripps.edu/people/goodsell/books/MoL2-preview.html)
 
 Biochemistry
 ------------
 
 * [Biochemistry by *Berg*](https://www.amazon.com/Biochemistry-Jeremy-M-Berg/dp/1464126100/ref=zg_bs_689711011_1)
-* [Principles of Biochemistry by *Lehninger*](http://bcs.whfreeman.com/lehninger6e/)
+* [Principles of Biochemistry by *Lehninger*](http://www.macmillanlearning.com/catalog/Product/lehningerprinciplesofbiochemistry-sixthedition-nelson)
 
 
 Biophysics
@@ -131,7 +131,7 @@ Evolution
 
 * [Arrival of the Fittest: Solving Evolution's Greatest Puzzle by *Andreas Wagner*](https://www.amazon.com/Arrival-Fittest-Solving-Evolutions-Greatest/dp/1591846463)
 * [Computational Molecular Evolution by *Ziheng Yang*](http://abacus.gene.ucl.ac.uk/CME/)
-* [Fundamentals of Molecular Evolution by *Dan Graur*](http://www.sinauer.com/fundamentals-of-molecular-evolution.html)
+* [Fundamentals of Molecular Evolution by *Dan Graur*](https://www.amazon.com/Fundamentals-Molecular-Evolution-Dan-Graur/dp/0878932666)
 * [Human Evolutionary Genetics by *Jobling* et al](http://www.garlandscience.com/product/isbn/9780815341482)
 * [Life Ascending: The Ten Great Inventions of Evolution by *Nick Lane*](https://www.goodreads.com/book/show/6429264-life-ascending)
 * [Robustness and Evolvability in Living Systems by *Andreas Wagner*](https://press.princeton.edu/titles/8002.html)
@@ -148,7 +148,7 @@ Molecular Biology
 * [Molecular Biology of the Cell by *Bruce Alberts*](http://www.garlandscience.com/product/isbn/0815341059)
 * [Molecular Biology of Gene by *Watson et al*](https://www.amazon.com/Molecular-Biology-Books-Carte-Edition/dp/0321905377)
 * [Molecular Cell Biology by *Lodish*](https://www.amazon.com/Molecular-Cell-Biology-Harvey-Lodish/dp/0716723808)
-* [Gene Cloning and DNA Analysis: An Introduction](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP002314.html)
+* [Gene Cloning and DNA Analysis: An Introduction by *T. A. Brown*](https://books.google.com/books/about/Gene_Cloning_and_DNA_Analysis.html?id=FWhcYsuwIXoC&hl=en)
 
 Neuroscience
 ------------
@@ -179,7 +179,7 @@ Genetics
   > followed. The part on recombinant DNA is particularly good. - C A Smith (*Biochemical Education, Volume 19, Issue 4*)
 
 * [Concepts of Genetics by *Klug*](https://www.amazon.com/Concepts-Genetics-William-S-Klug/dp/0321795776)
-* [Principles of Population Genetics by *Hartl* and *Clark*](http://www.sinauer.com/principles-of-population-genetics.html)
+* [Principles of Population Genetics by *Hartl* and *Clark*](https://www.amazon.com/Principles-Population-Genetics-Daniel-Hartl/dp/0878933085)
 
 Omics
 -----
@@ -274,7 +274,7 @@ much more.
 Podcasts
 --------
 
-* [This Week in Microbiology by *Vincent Racaniello*](http://www.microbeworld.org/podcasts/this-week-in-microbiology)
+* [This Week in Microbiology by *Vincent Racaniello*](www.microbe.tv/twim/)
 * [Nature Podcasts](https://idp.nature.com/authorize?response_type=cookie&client_id=grover&redirect_uri=http%3A%2F%2Fwww.nature.com%2Fnature%2Fpodcast%2F)
 * [Evolution Talk Podcast](http://evolutiontalk.com/mbRXg/)
 * [The Naked Scientists' Podcasts](https://www.thenakedscientists.com/podcasts), with four biology related podcasts, The Naked Scientists, eLife, Naked Genetics, and Naked Neuroscience

@@ -4,6 +4,6 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-redirect -w amazon,quora
+  - awesome_bot README.md --allow-redirect --allow 403 -w amazon,quora
 notifications:
   email: false
