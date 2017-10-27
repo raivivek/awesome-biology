@@ -229,6 +229,14 @@ Bioinformatics
 * [Theory of Basic Alignment Search Tool (BLAST)](http://etutorials.org/Misc/blast/)
 * [Translational Bioinformatics by *PLOS Collections*](http://collections.plos.org/translational-bioinformatics)
 
+Statistics
+----------
+
+* [Introduction to Statistical Learning (with applications in R) by *Hastie et al.*](http://www-bcf.usc.edu/~gareth/ISL/)
+* [Nature's Statistics for Biologists collection](https://www.nature.com/collections/qghhqm)
+* [Statistical Done Wrong by *Alex Reinhart*](https://www.statisticsdonewrong.com/)
+* [Statistics Inference by *George Casella*]()
+
 Structural Biology | Proteins
 -----------------------------
 
@@ -240,9 +248,8 @@ Data Analysis | Programming
 ---------------------------
 
 * [The Cartoon Guide to Statistics by *Gonick*](http://www.larrygonick.com/titles/science/the-cartoon-guide-to-statistics/)
-* [Nature's Statistics for Biologists collection](https://idp.nature.com/authorize?response_type=cookie&client_id=grover&redirect_uri=http%3A%2F%2Fwww.nature.com%2Fcollections%2Fqghhqm)
 * [The Analysis of Biological Data by *Whitlock* and *Schluter*](https://www.amazon.com/Analysis-Biological-Data-Michael-Whitlock/dp/1936221489)
-* [Practical Computing for Biologists by *Haddock* and *Dunn*](practicalcomputing.org/)
+* [Practical Computing for Biologists by *Haddock* and *Dunn*](www.practicalcomputing.org/)
 * [Advanced Python for Biologists by *Dr Martin O Jones*](https://www.amazon.com/Advanced-Python-Biologists-Martin-Jones/dp/1495244377/ref=zg_bs_760204_17)
 
 Laboratory Manuals
