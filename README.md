@@ -338,3 +338,13 @@ Competitions
 * [ISCB Wikipedia Competition](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computational_Biology/ISCB_competition_announcement_2016)
 * [Open Science Prize](https://www.openscienceprize.org)
 * [sbv IMPROVER Challenges](https://www.sbvimprover.com/)
+
+Conferences
+-----------
+
+* [American Society of Human Genetics (ASHG)](http://www.ashg.org/2018meeting/)
+* [Biology of Genomes](http://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=18)
+* [Gordon Research Conferences](https://www.grc.org/)
+* [Intelligent Systems for Molecular Biology (ISMB)](http://ismb.org)
+* [RECOMB](http://www.recomb.org/home)
+*
