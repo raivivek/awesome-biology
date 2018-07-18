@@ -217,6 +217,7 @@ Bioinformatics
 
 * **List**: [Curated list of papers for Computational Genomics](https://github.com/jtleek/genomicspapers)
 * **List**: [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
+* **List**: [Curated list of deep learning applications in Computational Biology](https://github.com/gokceneraslan/awesome-deepbio)
 * [Practical Computing for Biologists by *Steven Haddock* and *Casey Dunn*](http://practicalcomputing.org/)
 * [An Introduction to Bioinformatics Algorithms by *Pavel Pevzner*](https://mitpress.mit.edu/books/introduction-bioinformatics-algorithms)
 * [Bioinformatics and Functional Genomics by *Jonathan Pevsner*](http://www.bioinfbook.org/php/?q=book3)
@@ -347,4 +348,3 @@ Conferences
 * [Gordon Research Conferences](https://www.grc.org/)
 * [Intelligent Systems for Molecular Biology (ISMB)](http://ismb.org)
 * [RECOMB](http://www.recomb.org/home)
-*
