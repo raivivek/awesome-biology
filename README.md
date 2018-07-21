@@ -212,12 +212,19 @@ Systems Biology and Genetic Networks
 * [Mathematical Modeling in Systems Biology by *Brian Ingalls*](https://mitpress.mit.edu/books/mathematical-modeling-systems-biology)
 * [Systems Biology: Properties of Reconstructed Networks by *B. Palsson*](http://gcrg.ucsd.edu/Publications/Books)
 
+
+Deep Learning
+-------------
+
+* List: [Deep Learning in Biology](https://github.com/hussius/deeplearning-biology)
+* **List**: [Deep Learning Applications in Computational Biology](https://github.com/gokceneraslan/awesome-deepbio)
+
+
 Bioinformatics
 --------------
 
 * **List**: [Curated list of papers for Computational Genomics](https://github.com/jtleek/genomicspapers)
 * **List**: [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
-* **List**: [Curated list of deep learning applications in Computational Biology](https://github.com/gokceneraslan/awesome-deepbio)
 * [Practical Computing for Biologists by *Steven Haddock* and *Casey Dunn*](http://practicalcomputing.org/)
 * [An Introduction to Bioinformatics Algorithms by *Pavel Pevzner*](https://mitpress.mit.edu/books/introduction-bioinformatics-algorithms)
 * [Bioinformatics and Functional Genomics by *Jonathan Pevsner*](http://www.bioinfbook.org/php/?q=book3)
@@ -266,10 +273,10 @@ Blogs/Links
 * [**Talks at ICTS**](https://www.youtube.com/user/ICTStalks/playlists), an
 interesting collection of talks on statistical physics, systems biology, and
 much more.
-* [Papers-per-week](https://github.com/raivivek/papers-per-week), an interesting collection of papers (with reviews!)
+* [Papers-per-week](https://github.com/raivivek/papers-per-week), my collection of papers (with reviews!)
 * [Protein Love @ Quora](https://proteinlove.quora.com/)
 * [Bioscience club @ Quora](https://bioscienceclub.quora.com), discusses great biology related answers on Quora
-* [it is NOT junk](http://www.michaeleisen.org/blog/), a blog about genomes, DNA, evolution, open science.. (by [Michael Eisen](http://www.michaeleisen.org/blog/?page_id=581))
+* [it is NOT junk](http://www.michaeleisen.org/blog/), a blog about genomes, DNA, evolution, open science by [Michael Eisen](http://www.michaeleisen.org/blog/?page_id=581)
 * [Virology, immunology, biology @ Quota](https://iayork.quora.com/) by Ian York
 * [Quorky Biology](https://vidushirastogi.quora.com/)
 * [Biophysics Research Blog](https://biophysicsblog.quora.com/)
