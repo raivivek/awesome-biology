@@ -1,8 +1,8 @@
 # Awesome Biology [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/raivivek/awesome-biology.svg?branch=master)](https://travis-ci.org/raivivek/awesome-biology)
 
-An attempt to collect a curated list of awesome learning resources, research
-papers, tools and other resources related to Biology. This is inspired from
-several such lists in programming community.
+Meta-collection of awesome learning resources, research papers, tools and other
+resources across different fields in Biology. This is inspired from several such
+lists in programming community.
 
 If you want to contribute to this list (please do), [send a pull
 request](https://github.com/raivivek/awesome-biology/compare), [open an
@@ -216,6 +216,7 @@ Systems Biology and Genetic Networks
 Deep Learning
 -------------
 
+* List: [Deep Learning in Computational Biology](https://github.com/pimentel/deep_learning_papers)
 * List: [Deep Learning in Neuronal Image Analysis](https://github.com/alxndrkalinin/awesome-deepneuroimage)
 * List: [Deep Learning in Biology](https://github.com/hussius/deeplearning-biology)
 * **List**: [Deep Learning Applications in Computational Biology](https://github.com/gokceneraslan/awesome-deepbio)
