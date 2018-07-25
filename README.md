@@ -216,6 +216,7 @@ Systems Biology and Genetic Networks
 Deep Learning
 -------------
 
+* List: [Deep Learning in Neuronal Image Analysis](https://github.com/alxndrkalinin/awesome-deepneuroimage)
 * List: [Deep Learning in Biology](https://github.com/hussius/deeplearning-biology)
 * **List**: [Deep Learning Applications in Computational Biology](https://github.com/gokceneraslan/awesome-deepbio)
 
