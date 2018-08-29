@@ -1,4 +1,4 @@
-# Awesome Biology [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/raivivek/awesome-biology.svg?branch=master)](https://travis-ci.org/raivivek/awesome-biology)
+# Awesome Biology [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/raivivek/awesome-biology.svg?branch=master)](https://travis-ci.org/raivivek/awesome-biology) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/raivivek)
 
 Meta-collection of awesome learning resources, research papers, tools and other
 resources across different fields in Biology. This is inspired from several such
