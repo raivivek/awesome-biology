@@ -23,6 +23,7 @@ For a list of review research articles, see [awesome-reviews](awesome-reviews.md
 Table of Contents
 =================
 
+* [Awesome lists](#awesome)
 * [General Reading](#general-reading)
   - [Videos](#videos)
 * [Introductory](#introductory)
@@ -46,6 +47,14 @@ Table of Contents
 * [Journals](#journals)
 * [MOOCs](#moocs)
 * [Competitions](#competitions)
+
+Awesome
+-------
+
+* [Awesome Multi-Omics](#https://github.com/mikelove/awesome-multi-omics)
+* [Awesome Single-Cell](#https://github.com/seandavi/awesome-single-cell)
+* [Awesome Cancer Variant
+  Databases](#https://github.com/seandavi/awesome-cancer-variant-databases)
 
 General Reading
 ---------------
