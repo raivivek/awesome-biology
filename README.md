@@ -53,6 +53,7 @@ Awesome
 
 * [Awesome Multi-Omics](#https://github.com/mikelove/awesome-multi-omics)
 * [Awesome Single-Cell](#https://github.com/seandavi/awesome-single-cell)
+* [Awesome-Computational-Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience)
 * [Awesome Cancer Variant
   Databases](#https://github.com/seandavi/awesome-cancer-variant-databases)
 
@@ -91,7 +92,7 @@ General Reading
 * [Elephants on Acids and Other Bizarre Experiments by *Alex Boese*](https://www.amazon.com/Elephants-Acid-Bizarre-Experiments-Original/dp/0156031353)
 * [Sapiens: A Brief History of Humankind by *Yuval Noah Harari*](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)
 * [Evolving Ourselves: Redesigning the Future of Humanity--One Gene at a Time](https://www.amazon.com/Evolving-Ourselves-Redesigning-Future-Humanity-One/dp/0143108344/ref=sr_1_1?ie=UTF8&qid=1486032552&sr=8-1)
-* [The Botany of Desire by *Michael Pollan*](https://en.wikipedia.org/wiki/The_Botany_of_Desire) 
+* [The Botany of Desire by *Michael Pollan*](https://en.wikipedia.org/wiki/The_Botany_of_Desire)
 * [Silent Spring by *Rachel Carlson*](https://en.wikipedia.org/wiki/Silent_Spring)
 * [Soft Matter: the stuff that dreams are made of by *Roberto Piazza*](https://www.springer.com/in/book/9789400705845)
 
@@ -145,7 +146,7 @@ Evolution
 * [Life Ascending: The Ten Great Inventions of Evolution by *Nick Lane*](https://www.goodreads.com/book/show/6429264-life-ascending)
 * [Robustness and Evolvability in Living Systems by *Andreas Wagner*](https://press.princeton.edu/titles/8002.html)
 * [Mathematical Ecology of Populations and Ecosystems by *John Pastor*](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1405177950.html)
-* [Man and His Future, A Ciba Foundation Volume by *Wolstenholme, G. E. W.*](https://archive.org/details/manhisfutureciba00wols) 
+* [Man and His Future, A Ciba Foundation Volume by *Wolstenholme, G. E. W.*](https://archive.org/details/manhisfutureciba00wols)
 * [The Origins of Evolutionary Innovations by *Andreas Wagner*](https://global.oup.com/academic/product/the-origins-of-evolutionary-innovations-9780199692606?cc=in&lang=en&)
 * [The Growth of Biological Thought](https://en.wikipedia.org/wiki/The_Growth_of_Biological_Thought)
 
@@ -162,6 +163,7 @@ Molecular Biology
 Neuroscience
 ------------
 
+* **LIST**: [Awesome-Computational-Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience)
 * [Principles of Neural Science by *Kandel* and *Schwartz*](http://www.principlesofneuralscience.com)
 * [Theoretical Neuroscience by *Dayan* and *Abbott*](https://mitpress.mit.edu/books/theoretical-neuroscience)
 
