@@ -51,11 +51,12 @@ Table of Contents
 Awesome
 -------
 
-* [Awesome Multi-Omics](#https://github.com/mikelove/awesome-multi-omics)
-* [Awesome Single-Cell](#https://github.com/seandavi/awesome-single-cell)
+* [Awesome Multi-Omics](https://github.com/mikelove/awesome-multi-omics)
+* [Awesome Single-Cell](https://github.com/seandavi/awesome-single-cell)
 * [Awesome-Computational-Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience)
 * [Awesome Cancer Variant
-  Databases](#https://github.com/seandavi/awesome-cancer-variant-databases)
+  Databases](https://github.com/seandavi/awesome-cancer-variant-databases)
+* [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio)
 
 General Reading
 ---------------
