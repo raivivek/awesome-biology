@@ -6,11 +6,10 @@ lists in programming community.
 
 If you want to contribute to this list (please do), [send a pull
 request](https://github.com/raivivek/awesome-biology/compare), [open an
-issue](https://github.com/vivekiitkgp/awesome-biology/issues/new) or contact
-through [email](mailto:vivekraiiitkgp@gmail.com). When sending suggestions
-please add a short blurb/description about each book that you have personally
-read/benefited from. Feel free to debate quality, headings, etc.  irrespective
-of any particular field or subject area.
+issue](https://github.com/vivekiitkgp/awesome-biology/issues/new). When sending
+suggestions please add a short blurb/description about resource that you have personally
+read/benefited from. Feel free to debate quality, headings, etc. irrespective of any
+particular field or subject area.
 
 All the resources need not be freely available for download.
 
@@ -60,13 +59,24 @@ Awesome
 * [Awesome Nextflow](https://github.com/nextflow-io/awesome-nextflow)
 * [Awesome Synthetic Biology](https://github.com/websemantics/awesome-synthetic-biology)
 
+
+Lists
+-----
+
+Other awesome lists without the _awesome_ branding.
+
+#### Tools
+
+* [Biotools by _John Didion_](https://github.com/jdidion/biotools)
+
+
 General Reading
 ---------------
 
-> Books written in popular science style yet sufficiently technical in
-> appropriate cases to provide you an interesting tour of all big and small
-> process in universe and its biology.
-> (Unordered list)
+> Unordered list of books written in popular science style yet sufficiently technical in
+> appropriate cases to provide you an interesting tour of all big and small process in
+> universe and its biology.
+
 
 * [The Epic History of Biology by *Serafini*](https://www.amazon.com/dp/073820577X)
 * [The Selfish Gene by *Richard Dawkins*](https://www.amazon.com/dp/0199291152)
@@ -104,8 +114,8 @@ General Reading
 * [Life on Earth and The Living Planet by *David Attenborough*](https://en.wikipedia.org/wiki/The_Living_Planet)
 * [The Secret Life of The Brain by *PBS*](https://www.youtube.com/watch?v=q7PUyR4mcNI&list=PLcVG5UVQS25l-IKQIj3wCeTnNLsl8gQRz)
 
-Introductory
-------------
+General Biology
+---------------
 
 * [Ancestors in Our Genome by *Eugene E. Harris*](https://global.oup.com/academic/product/ancestors-in-our-genome-9780199978038?cc=us&lang=en&)
 * [A Cartoon Guide to Genetics by *Gonick* and *Wheelis*](https://archive.org/details/The_Cartoon_Guide_To_Genetics_Larry_Gonick)
@@ -276,11 +286,12 @@ Data Analysis | Programming
 * [Practical Computing for Biologists by *Haddock* and *Dunn*](www.practicalcomputing.org/)
 * [Advanced Python for Biologists by *Dr Martin O Jones*](https://www.amazon.com/Advanced-Python-Biologists-Martin-Jones/dp/1495244377/ref=zg_bs_760204_17)
 
-Laboratory Manuals
-------------------
+Laboratory Protocol Manuals
+---------------------------
 
 * [Molecular Cloning: A Laboratory Manual by *Sambrook*](http://www.molecularcloning.com/)
 * [Prescott's Microbiology](https://www.amazon.in/Prescotts-Microbiology-Joanne-Willey/dp/0077350138)
+* [Nature Protocols](https://nature.com/nprot/index.html)
 
 Blogs/Links
 ----------------
