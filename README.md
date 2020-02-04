@@ -1,4 +1,4 @@
-# Awesome Biology [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/raivivek/awesome-biology.svg?branch=master)](https://travis-ci.org/raivivek/awesome-biology) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/raivivek)
+﻿# Awesome Biology [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/raivivek/awesome-biology.svg?branch=master)](https://travis-ci.org/raivivek/awesome-biology) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/raivivek)
 
 Meta-collection of awesome learning resources, research papers, tools and other
 resources across different fields in Biology. This is inspired from several such
@@ -172,7 +172,7 @@ Molecular Biology
 * [Molecular Biology of Gene by *Watson et al*](https://www.amazon.com/Molecular-Biology-Books-Carte-Edition/dp/0321905377)
 * [Molecular Cell Biology by *Lodish*](https://www.amazon.com/Molecular-Cell-Biology-Harvey-Lodish/dp/0716723808)
 * [Gene Cloning and DNA Analysis: An Introduction by *T. A. Brown*](https://books.google.com/books/about/Gene_Cloning_and_DNA_Analysis.html?id=FWhcYsuwIXoC&hl=en)
-
+* [Lewin's GENES XII by *Krebs et al*] (https://www.amazon.com/Lewins-GENES-XII-Jocelyn-Krebs/dp/1284104494)
 Neuroscience
 ------------
 
