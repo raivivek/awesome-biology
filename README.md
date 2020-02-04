@@ -172,7 +172,8 @@ Molecular Biology
 * [Molecular Biology of Gene by *Watson et al*](https://www.amazon.com/Molecular-Biology-Books-Carte-Edition/dp/0321905377)
 * [Molecular Cell Biology by *Lodish*](https://www.amazon.com/Molecular-Cell-Biology-Harvey-Lodish/dp/0716723808)
 * [Gene Cloning and DNA Analysis: An Introduction by *T. A. Brown*](https://books.google.com/books/about/Gene_Cloning_and_DNA_Analysis.html?id=FWhcYsuwIXoC&hl=en)
-* [Lewin's GENES XII by *Krebs et al*] (https://www.amazon.com/Lewins-GENES-XII-Jocelyn-Krebs/dp/1284104494)
+* [Lewin's GENES XII by *Krebs et al*](https://www.amazon.com/Lewins-GENES-XII-Jocelyn-Krebs/dp/1284104494)
+
 Neuroscience
 ------------
 
