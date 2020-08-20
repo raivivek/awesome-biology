@@ -255,6 +255,7 @@ Bioinformatics
 * [Practical Computing for Biologists by *Steven Haddock* and *Casey Dunn*](http://practicalcomputing.org/)
 * [An Introduction to Bioinformatics Algorithms by *Pavel Pevzner*](https://mitpress.mit.edu/books/introduction-bioinformatics-algorithms)
 * [Bioinformatics and Functional Genomics by *Jonathan Pevsner*](http://www.bioinfbook.org/php/?q=book3)
+* [Bioinformatics Algorithms: An Active Learning Approach by *Phillip Compeau and Pavel Pevzner*](https://secure.mybookorders.com/mbo_index.php?isbn=9780990374626)
 * [Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids](https://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713)
 * [Bioinformatics: The Machine Learning Approach by *Pierre Baldi*](https://books.google.com/books?id=pxSM7R1sdeQC&dq=Pierre+baldi+%2B+bioinformatics&printsec=frontcover&source=bn&hl=en&ei=IoGRS6uCIJT-NYLA8Z0N&sa=X&oi=book_result&ct=result)
 * [Current topics in Genome Analysis 2016 by NIH-NHGRI](https://www.genome.gov/12514288/current-topics-in-genome-analysis-2016-course-syllabus-handouts-and-videos/)
