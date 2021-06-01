@@ -57,6 +57,7 @@ Awesome
 * [Awesome Cancer Variant Databases](https://github.com/seandavi/awesome-cancer-variant-databases)
 * [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio)
 * [Awesome Nextflow](https://github.com/nextflow-io/awesome-nextflow)
+* [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research)
 * [Awesome Synthetic Biology](https://github.com/websemantics/awesome-synthetic-biology)
 
 
