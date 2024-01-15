@@ -195,6 +195,7 @@ Immunology
 
 * [How the Immune System Works?](https://www.amazon.com/Immune-System-Includes-Desktop-Edition/dp/0470657294)
 * [*Janeway's* Immunobiology](http://www.garlandscience.com/product/isbn/9780815342434)
+* [*Kuby* Immunology](https://www.academia.edu/39998679/Kuby_Immunology_7th_Edition)
 
 Genetics
 --------
