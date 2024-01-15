@@ -51,6 +51,7 @@ Awesome
 -------
 
 * [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
+* [Awesome Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis)
 * [Awesome Multi-Omics](https://github.com/mikelove/awesome-multi-omics)
 * [Awesome Single-Cell](https://github.com/seandavi/awesome-single-cell)
 * [Awesome-Computational-Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience)
