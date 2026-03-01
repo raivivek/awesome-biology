@@ -337,6 +337,9 @@ Tools
 * [BioPython](http://biopython.org/wiki/Main_Page), Python libraries that implement a rich set of modules to handle wide class of biological computations
 * [SciFeeds](https://scifeeds.com/), Aggregates science mentioned in articles, social media, and news media to help identify important scientific advances
 * [Linuxbrew](http://linuxbrew.sh/), port of Homebrew, a Mac OS package manager, for Linux
+* [Encyclopedia of Life (EOL)](https://eol.org), Aggregates species data from 1,000+ institutions with a free API covering 2.7M+ taxa
+* [Movebank](https://www.movebank.org), Open repository for animal movement ecology data including GPS and accelerometer tracks, with a free API
+* [Zooniverse Biology Projects](https://www.zooniverse.org/projects), Citizen science platform hosting wildlife annotation and classification projects
 
 Journals
 --------
