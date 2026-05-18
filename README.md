@@ -317,7 +317,9 @@ much more.
 * [reddit/learnbioinformatics](https://www.reddit.com/r/learnbioinformatics/wiki/index)
 * [Biostars Tutorials](https://www.biostars.org/t/Tutorials/)
 * [Rosalind](http://rosalind.info/problems/)
-
+* [Bio AI Software Engineer](https://www.bioaisoftware.engineer/), blog about biotech AI software engineering role 
+* [BioTech Software Engineer Directory](https://www.biotechsoftware.engineer/), community-driven list of biotech software engineers 
+* 
 Podcasts
 --------
 
