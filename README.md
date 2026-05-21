@@ -335,6 +335,7 @@ Tools
 * [PDBREMIX](https://github.com/boscoh/pdbremix), Library to analyze protein structures and protein simulations
 * [scikit-bio](http://scikit-bio.org), in development Python library for bioinformatics
 * [BioPython](http://biopython.org/wiki/Main_Page), Python libraries that implement a rich set of modules to handle wide class of biological computations
+* [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis), Personal genome analysis toolkit that analyzes raw DNA SNP data across 17 categories including health, ancestry, and pharmacogenomics
 * [SciFeeds](https://scifeeds.com/), Aggregates science mentioned in articles, social media, and news media to help identify important scientific advances
 * [Linuxbrew](http://linuxbrew.sh/), port of Homebrew, a Mac OS package manager, for Linux
 
