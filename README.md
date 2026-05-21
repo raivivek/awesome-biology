@@ -1,4 +1,4 @@
-﻿# Awesome Biology [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/raivivek/awesome-biology.svg?branch=master)](https://travis-ci.org/raivivek/awesome-biology) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/raivivek)
+# Awesome Biology [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/raivivek/awesome-biology.svg?branch=master)](https://travis-ci.org/raivivek/awesome-biology) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/raivivek)
 
 Meta-collection of awesome learning resources, research papers, tools and other
 resources across different fields in Biology. This is inspired from several such
@@ -337,6 +337,7 @@ Tools
 * [BioPython](http://biopython.org/wiki/Main_Page), Python libraries that implement a rich set of modules to handle wide class of biological computations
 * [SciFeeds](https://scifeeds.com/), Aggregates science mentioned in articles, social media, and news media to help identify important scientific advances
 * [Linuxbrew](http://linuxbrew.sh/), port of Homebrew, a Mac OS package manager, for Linux
+* [BGPT MCP](https://github.com/connerlambden/bgpt-mcp), Remote MCP server for searching scientific papers with structured experimental data from full-text studies
 
 Journals
 --------
