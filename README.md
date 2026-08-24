@@ -128,6 +128,7 @@ General Biology
 * [The Developing Genome: An Introduction to Behavioral Epigenetics by *Davis S. Moore*](https://global.oup.com/academic/product/the-developing-genome-9780199922345?cc=us&lang=en&)
 * [The Systems View of Life: A Unifying Vision](https://www.amazon.com/Systems-View-Life-Unifying-Vision-ebook/dp/B00I0UNCES/ref=mt_kindle?_encoding=UTF8&me=)
 * [Scitable by *Nature Education*](https://idp.nature.com/authorize?response_type=cookie&client_id=grover&redirect_uri=http%3A%2F%2Fwww.nature.com%2Fscitable)
+* [Random Animal Picker](https://randomanimalpicker.com/) - Free interactive reference for exploring animal photos, facts, source links, and related species.
 * [The Many Phases of the Matter by *Ganeshan Venkataraman*](https://www.goodreads.com/book/show/2205012.The_Many_Phases_Of_Matter)
 * [The Shaping of Life by *Lionel G. Harrison*](https://www.cambridge.org/core/books/the-shaping-of-life/CC2A60300A688A6BE31BE73DBF420A95)
 * [The Machinery of Life by *David Goodsell*](http://mgl.scripps.edu/people/goodsell/books/MoL2-preview.html)
