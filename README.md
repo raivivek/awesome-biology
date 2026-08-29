@@ -333,6 +333,8 @@ Tools
 * [OMICS Tools](https://omictools.com/), A huge collection of tools
 * [bioconda-recipes](https://github.com/bioconda/bioconda-recipes), Conda recipes to install bioinformatics software
 * [PDBREMIX](https://github.com/boscoh/pdbremix), Library to analyze protein structures and protein simulations
+* [COSMolKit](https://github.com/cosmol-studio/COSMolKit), Toolkit for molecular graphs, SMILES, SDF, InChI, SMARTS, fingerprints, descriptors, conformers, force fields, and structure utilities. [Documentation](https://kit.cosmol.org/) · [Web tools](https://tools.cosmol.org/) · [PyPI](https://pypi.org/project/cosmolkit/) · [crates.io](https://crates.io/crates/cosmolkit)
+* [COSMol-viewer](https://github.com/cosmol-studio/COSMol-viewer), Web-based molecular and structural-biology visualization for inspecting molecular structures and related data.
 * [scikit-bio](http://scikit-bio.org), in development Python library for bioinformatics
 * [BioPython](http://biopython.org/wiki/Main_Page), Python libraries that implement a rich set of modules to handle wide class of biological computations
 * [SciFeeds](https://scifeeds.com/), Aggregates science mentioned in articles, social media, and news media to help identify important scientific advances
