@@ -316,6 +316,7 @@ much more.
 * [reddit/bioinformatics](https://www.reddit.com/r/bioinformatics/comments/191ykr/resources_for_learning_bioinformatics/)
 * [reddit/learnbioinformatics](https://www.reddit.com/r/learnbioinformatics/wiki/index)
 * [Biostars Tutorials](https://www.biostars.org/t/Tutorials/)
+* [KoreAves — South Korean Bird Evidence Atlas](https://koreaves.com/guide/), a free English/Korean educational reference linking national bird taxa to source-backed occurrence evidence across 17 regions; record counts are not population estimates.
 * [Rosalind](http://rosalind.info/problems/)
 
 Podcasts
